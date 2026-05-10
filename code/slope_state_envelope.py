@@ -389,30 +389,36 @@ def make_figures(
     }
 
     # Figure 1: conceptual workflow.
-    fig, ax = plt.subplots(figsize=(8.6, 5.0))
+    fig, ax = plt.subplots(figsize=(9.4, 5.0))
     ax.axis("off")
+    box_h = 0.16
     boxes = [
-        (0.05, 0.68, 0.20, "Rainfall\ntime series"),
-        (0.29, 0.68, 0.20, "Infiltration\nstate"),
-        (0.53, 0.68, 0.20, "Crack-root\nmodifier"),
-        (0.75, 0.68, 0.20, "Road load\nand drainage"),
-        (0.29, 0.30, 0.20, "FSmin(t)"),
-        (0.56, 0.30, 0.31, "Pf(t) and\nthreshold envelope"),
+        (0.04, 0.68, 0.18, "Rainfall\ntime series"),
+        (0.30, 0.68, 0.18, "Infiltration\nstate"),
+        (0.56, 0.68, 0.18, "Crack-root\nmodifier"),
+        (0.81, 0.68, 0.17, "Road load\nand drainage"),
+        (0.30, 0.30, 0.18, "FSmin(t)"),
+        (0.61, 0.30, 0.32, "Pf(t) and\nthreshold envelope"),
     ]
     for x, y, w, label in boxes:
-        ax.add_patch(plt.Rectangle((x, y), w, 0.16, facecolor="white", edgecolor="black", linewidth=1.2))
-        ax.text(x + w / 2, y + 0.08, label, ha="center", va="center", fontsize=13, color="black")
+        ax.add_patch(plt.Rectangle((x, y), w, box_h, facecolor="white", edgecolor="black", linewidth=1.2))
+        ax.text(x + w / 2, y + box_h / 2, label, ha="center", va="center", fontsize=12.2, color="black")
     arrows = [
-        ((0.25, 0.76), (0.29, 0.76)),
-        ((0.49, 0.76), (0.53, 0.76)),
-        ((0.73, 0.76), (0.75, 0.76)),
-        ((0.85, 0.68), (0.71, 0.46)),
-        ((0.39, 0.68), (0.39, 0.46)),
-        ((0.49, 0.32), (0.56, 0.32)),
+        ((0.235, 0.76), (0.285, 0.76)),
+        ((0.495, 0.76), (0.545, 0.76)),
+        ((0.755, 0.76), (0.795, 0.76)),
+        ((0.895, 0.665), (0.77, 0.475)),
+        ((0.39, 0.665), (0.39, 0.475)),
+        ((0.50, 0.38), (0.595, 0.38)),
     ]
     for start, end in arrows:
-        ax.annotate("", xy=end, xytext=start, arrowprops=dict(arrowstyle="->", linewidth=1.5, color="black"))
-    ax.text(0.05, 0.12, "New output: state-conditioned temporal reliability for natural and infrastructure-modified slopes.", color="black", fontsize=12)
+        ax.annotate(
+            "",
+            xy=end,
+            xytext=start,
+            arrowprops=dict(arrowstyle="-|>", linewidth=1.35, color="black", mutation_scale=13, shrinkA=0, shrinkB=0),
+        )
+    ax.text(0.04, 0.12, "New output: state-conditioned temporal reliability for natural and infrastructure-modified slopes.", color="black", fontsize=12)
     fig.tight_layout()
     fig.savefig(FIG / "Fig1_conceptual_workflow.png", bbox_inches="tight", facecolor="white")
     plt.close(fig)
