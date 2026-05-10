@@ -392,23 +392,23 @@ def make_figures(
     fig, ax = plt.subplots(figsize=(8.6, 5.0))
     ax.axis("off")
     boxes = [
-        (0.05, 0.68, "Rainfall\ntime series"),
-        (0.29, 0.68, "Infiltration\nstate"),
-        (0.53, 0.68, "Crack-root\nmodifier"),
-        (0.75, 0.68, "Road load\nand drainage"),
-        (0.29, 0.30, "FSmin(t)"),
-        (0.58, 0.30, "Pf(t) and\nthreshold envelope"),
+        (0.05, 0.68, 0.20, "Rainfall\ntime series"),
+        (0.29, 0.68, 0.20, "Infiltration\nstate"),
+        (0.53, 0.68, 0.20, "Crack-root\nmodifier"),
+        (0.75, 0.68, 0.20, "Road load\nand drainage"),
+        (0.29, 0.30, 0.20, "FSmin(t)"),
+        (0.56, 0.30, 0.31, "Pf(t) and\nthreshold envelope"),
     ]
-    for x, y, label in boxes:
-        ax.add_patch(plt.Rectangle((x, y), 0.20, 0.16, facecolor="white", edgecolor="black", linewidth=1.2))
-        ax.text(x + 0.10, y + 0.08, label, ha="center", va="center", fontsize=13, color="black")
+    for x, y, w, label in boxes:
+        ax.add_patch(plt.Rectangle((x, y), w, 0.16, facecolor="white", edgecolor="black", linewidth=1.2))
+        ax.text(x + w / 2, y + 0.08, label, ha="center", va="center", fontsize=13, color="black")
     arrows = [
         ((0.25, 0.76), (0.29, 0.76)),
         ((0.49, 0.76), (0.53, 0.76)),
         ((0.73, 0.76), (0.75, 0.76)),
-        ((0.85, 0.68), (0.68, 0.46)),
+        ((0.85, 0.68), (0.71, 0.46)),
         ((0.39, 0.68), (0.39, 0.46)),
-        ((0.49, 0.32), (0.58, 0.32)),
+        ((0.49, 0.32), (0.56, 0.32)),
     ]
     for start, end in arrows:
         ax.annotate("", xy=end, xytext=start, arrowprops=dict(arrowstyle="->", linewidth=1.5, color="black"))
