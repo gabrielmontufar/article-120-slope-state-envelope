@@ -1,0 +1,2311 @@
+scenario,time_h,pf_t
+Bare slope,0.0,0.0
+Bare slope,0.25,0.0
+Bare slope,0.5,0.0
+Bare slope,0.75,0.0
+Bare slope,1.0,0.0
+Bare slope,1.25,0.0
+Bare slope,1.5,0.0
+Bare slope,1.75,0.0
+Bare slope,2.0,0.0
+Bare slope,2.25,0.0
+Bare slope,2.5,0.0
+Bare slope,2.75,0.0
+Bare slope,3.0,0.0
+Bare slope,3.25,0.0
+Bare slope,3.5,0.0
+Bare slope,3.75,0.0
+Bare slope,4.0,0.0
+Bare slope,4.25,0.0
+Bare slope,4.5,0.0
+Bare slope,4.75,0.0
+Bare slope,5.0,0.0
+Bare slope,5.25,0.0
+Bare slope,5.5,0.0
+Bare slope,5.75,0.0
+Bare slope,6.0,0.0
+Bare slope,6.25,0.0
+Bare slope,6.5,0.0
+Bare slope,6.75,0.0
+Bare slope,7.0,0.0
+Bare slope,7.25,0.0
+Bare slope,7.5,0.0
+Bare slope,7.75,0.0
+Bare slope,8.0,3.3333333333333335e-05
+Bare slope,8.25,3.3333333333333335e-05
+Bare slope,8.5,6.666666666666667e-05
+Bare slope,8.75,0.0002
+Bare slope,9.0,0.0003333333333333333
+Bare slope,9.25,0.0004
+Bare slope,9.5,0.0005
+Bare slope,9.75,0.0008333333333333334
+Bare slope,10.0,0.001
+Bare slope,10.25,0.0012666666666666666
+Bare slope,10.5,0.0016
+Bare slope,10.75,0.002033333333333333
+Bare slope,11.0,0.0025
+Bare slope,11.25,0.0032
+Bare slope,11.5,0.003833333333333333
+Bare slope,11.75,0.0048
+Bare slope,12.0,0.005266666666666667
+Bare slope,12.25,0.0062
+Bare slope,12.5,0.0071333333333333335
+Bare slope,12.75,0.008433333333333333
+Bare slope,13.0,0.010233333333333334
+Bare slope,13.25,0.0122
+Bare slope,13.5,0.014233333333333334
+Bare slope,13.75,0.0163
+Bare slope,14.0,0.018733333333333334
+Bare slope,14.25,0.021133333333333334
+Bare slope,14.5,0.0238
+Bare slope,14.75,0.026366666666666667
+Bare slope,15.0,0.0291
+Bare slope,15.25,0.03133333333333333
+Bare slope,15.5,0.0343
+Bare slope,15.75,0.0374
+Bare slope,16.0,0.04136666666666667
+Bare slope,16.25,0.0449
+Bare slope,16.5,0.0488
+Bare slope,16.75,0.05333333333333334
+Bare slope,17.0,0.0573
+Bare slope,17.25,0.06216666666666667
+Bare slope,17.5,0.06673333333333334
+Bare slope,17.75,0.0713
+Bare slope,18.0,0.07333333333333333
+Bare slope,18.25,0.07486666666666666
+Bare slope,18.5,0.0769
+Bare slope,18.75,0.07846666666666667
+Bare slope,19.0,0.08026666666666667
+Bare slope,19.25,0.082
+Bare slope,19.5,0.08373333333333334
+Bare slope,19.75,0.0854
+Bare slope,20.0,0.08706666666666667
+Bare slope,20.25,0.08876666666666666
+Bare slope,20.5,0.09053333333333333
+Bare slope,20.75,0.09226666666666666
+Bare slope,21.0,0.09396666666666667
+Bare slope,21.25,0.09586666666666667
+Bare slope,21.5,0.09756666666666666
+Bare slope,21.75,0.0995
+Bare slope,22.0,0.10133333333333333
+Bare slope,22.25,0.1035
+Bare slope,22.5,0.1053
+Bare slope,22.75,0.10716666666666666
+Bare slope,23.0,0.10923333333333334
+Bare slope,23.25,0.11083333333333334
+Bare slope,23.5,0.11273333333333334
+Bare slope,23.75,0.11463333333333334
+Bare slope,24.0,0.11636666666666666
+Bare slope,24.25,0.11823333333333333
+Bare slope,24.5,0.1206
+Bare slope,24.75,0.12253333333333333
+Bare slope,25.0,0.12386666666666667
+Bare slope,25.25,0.1258
+Bare slope,25.5,0.12736666666666666
+Bare slope,25.75,0.12933333333333333
+Bare slope,26.0,0.1307
+Bare slope,26.25,0.13296666666666668
+Bare slope,26.5,0.1348
+Bare slope,26.75,0.13673333333333335
+Bare slope,27.0,0.13896666666666666
+Bare slope,27.25,0.14033333333333334
+Bare slope,27.5,0.1416
+Bare slope,27.75,0.14343333333333333
+Bare slope,28.0,0.14523333333333333
+Bare slope,28.25,0.14696666666666666
+Bare slope,28.5,0.14866666666666667
+Bare slope,28.75,0.15046666666666667
+Bare slope,29.0,0.15236666666666668
+Bare slope,29.25,0.154
+Bare slope,29.5,0.15573333333333333
+Bare slope,29.75,0.1573
+Bare slope,30.0,0.15406666666666666
+Bare slope,30.25,0.1507
+Bare slope,30.5,0.1474
+Bare slope,30.75,0.1442
+Bare slope,31.0,0.1412
+Bare slope,31.25,0.1385
+Bare slope,31.5,0.13506666666666667
+Bare slope,31.75,0.1319
+Bare slope,32.0,0.12896666666666667
+Bare slope,32.25,0.1261
+Bare slope,32.5,0.1234
+Bare slope,32.75,0.12086666666666666
+Bare slope,33.0,0.11736666666666666
+Bare slope,33.25,0.11483333333333333
+Bare slope,33.5,0.112
+Bare slope,33.75,0.1096
+Bare slope,34.0,0.10706666666666667
+Bare slope,34.25,0.1042
+Bare slope,34.5,0.10153333333333334
+Bare slope,34.75,0.09916666666666667
+Bare slope,35.0,0.09676666666666667
+Bare slope,35.25,0.09463333333333333
+Bare slope,35.5,0.09243333333333334
+Bare slope,35.75,0.0903
+Bare slope,36.0,0.0882
+Bare slope,36.25,0.08643333333333333
+Bare slope,36.5,0.08436666666666667
+Bare slope,36.75,0.08236666666666667
+Bare slope,37.0,0.08063333333333333
+Bare slope,37.25,0.0786
+Bare slope,37.5,0.0769
+Bare slope,37.75,0.0746
+Bare slope,38.0,0.07303333333333334
+Bare slope,38.25,0.0711
+Bare slope,38.5,0.06923333333333333
+Bare slope,38.75,0.0677
+Bare slope,39.0,0.06646666666666666
+Bare slope,39.25,0.06483333333333334
+Bare slope,39.5,0.06336666666666667
+Bare slope,39.75,0.0617
+Bare slope,40.0,0.05973333333333333
+Bare slope,40.25,0.0583
+Bare slope,40.5,0.056966666666666665
+Bare slope,40.75,0.055733333333333336
+Bare slope,41.0,0.05446666666666666
+Bare slope,41.25,0.0532
+Bare slope,41.5,0.052033333333333334
+Bare slope,41.75,0.050333333333333334
+Bare slope,42.0,0.04806666666666667
+Bare slope,42.25,0.046266666666666664
+Bare slope,42.5,0.04463333333333333
+Bare slope,42.75,0.043166666666666666
+Bare slope,43.0,0.041166666666666664
+Bare slope,43.25,0.039433333333333334
+Bare slope,43.5,0.0376
+Bare slope,43.75,0.035833333333333335
+Bare slope,44.0,0.03456666666666667
+Bare slope,44.25,0.03356666666666667
+Bare slope,44.5,0.031933333333333334
+Bare slope,44.75,0.0309
+Bare slope,45.0,0.029833333333333333
+Bare slope,45.25,0.029166666666666667
+Bare slope,45.5,0.027733333333333332
+Bare slope,45.75,0.0268
+Bare slope,46.0,0.025966666666666666
+Bare slope,46.25,0.025066666666666668
+Bare slope,46.5,0.0238
+Bare slope,46.75,0.02263333333333333
+Bare slope,47.0,0.0217
+Bare slope,47.25,0.0206
+Bare slope,47.5,0.0197
+Bare slope,47.75,0.018833333333333334
+Bare slope,48.0,0.01806666666666667
+Bare slope,48.25,0.017233333333333333
+Bare slope,48.5,0.0163
+Bare slope,48.75,0.015633333333333332
+Bare slope,49.0,0.014833333333333334
+Bare slope,49.25,0.014133333333333333
+Bare slope,49.5,0.0133
+Bare slope,49.75,0.0127
+Bare slope,50.0,0.0121
+Bare slope,50.25,0.0114
+Bare slope,50.5,0.010633333333333333
+Bare slope,50.75,0.0102
+Bare slope,51.0,0.0095
+Bare slope,51.25,0.0089
+Bare slope,51.5,0.008433333333333333
+Bare slope,51.75,0.0079
+Bare slope,52.0,0.0076
+Bare slope,52.25,0.0073
+Bare slope,52.5,0.006866666666666667
+Bare slope,52.75,0.0065
+Bare slope,53.0,0.0064
+Bare slope,53.25,0.0061333333333333335
+Bare slope,53.5,0.006
+Bare slope,53.75,0.005733333333333333
+Bare slope,54.0,0.0054
+Bare slope,54.25,0.0052
+Bare slope,54.5,0.005
+Bare slope,54.75,0.004866666666666667
+Bare slope,55.0,0.0047666666666666664
+Bare slope,55.25,0.004433333333333333
+Bare slope,55.5,0.0041333333333333335
+Bare slope,55.75,0.003966666666666667
+Bare slope,56.0,0.003766666666666667
+Bare slope,56.25,0.003533333333333333
+Bare slope,56.5,0.0033
+Bare slope,56.75,0.0033
+Bare slope,57.0,0.0031
+Bare slope,57.25,0.003
+Bare slope,57.5,0.0028666666666666667
+Bare slope,57.75,0.0027
+Bare slope,58.0,0.0024666666666666665
+Bare slope,58.25,0.0023
+Bare slope,58.5,0.0022333333333333333
+Bare slope,58.75,0.0021666666666666666
+Bare slope,59.0,0.002033333333333333
+Bare slope,59.25,0.002
+Bare slope,59.5,0.0019
+Bare slope,59.75,0.0017333333333333333
+Bare slope,60.0,0.0017333333333333333
+Bare slope,60.25,0.0016
+Bare slope,60.5,0.0015333333333333334
+Bare slope,60.75,0.0015333333333333334
+Bare slope,61.0,0.0014333333333333333
+Bare slope,61.25,0.0013333333333333333
+Bare slope,61.5,0.0012
+Bare slope,61.75,0.0011666666666666668
+Bare slope,62.0,0.0011333333333333334
+Bare slope,62.25,0.0010666666666666667
+Bare slope,62.5,0.001
+Bare slope,62.75,0.0009666666666666667
+Bare slope,63.0,0.0009333333333333333
+Bare slope,63.25,0.0009333333333333333
+Bare slope,63.5,0.0009
+Bare slope,63.75,0.0008333333333333334
+Bare slope,64.0,0.0008333333333333334
+Bare slope,64.25,0.0007
+Bare slope,64.5,0.0006666666666666666
+Bare slope,64.75,0.0006666666666666666
+Bare slope,65.0,0.0005666666666666667
+Bare slope,65.25,0.0005
+Bare slope,65.5,0.00046666666666666666
+Bare slope,65.75,0.00046666666666666666
+Bare slope,66.0,0.0004333333333333333
+Bare slope,66.25,0.0004333333333333333
+Bare slope,66.5,0.0004333333333333333
+Bare slope,66.75,0.0004
+Bare slope,67.0,0.0003333333333333333
+Bare slope,67.25,0.0003333333333333333
+Bare slope,67.5,0.0003333333333333333
+Bare slope,67.75,0.0003333333333333333
+Bare slope,68.0,0.0003333333333333333
+Bare slope,68.25,0.0003333333333333333
+Bare slope,68.5,0.0003
+Bare slope,68.75,0.0002666666666666667
+Bare slope,69.0,0.0002666666666666667
+Bare slope,69.25,0.00023333333333333333
+Bare slope,69.5,0.00023333333333333333
+Bare slope,69.75,0.00023333333333333333
+Bare slope,70.0,0.0002
+Bare slope,70.25,0.0002
+Bare slope,70.5,0.00013333333333333334
+Bare slope,70.75,0.00013333333333333334
+Bare slope,71.0,0.00013333333333333334
+Bare slope,71.25,0.0001
+Bare slope,71.5,6.666666666666667e-05
+Bare slope,71.75,6.666666666666667e-05
+Bare slope,72.0,6.666666666666667e-05
+Bare slope,72.25,6.666666666666667e-05
+Bare slope,72.5,6.666666666666667e-05
+Bare slope,72.75,3.3333333333333335e-05
+Bare slope,73.0,3.3333333333333335e-05
+Bare slope,73.25,3.3333333333333335e-05
+Bare slope,73.5,3.3333333333333335e-05
+Bare slope,73.75,3.3333333333333335e-05
+Bare slope,74.0,3.3333333333333335e-05
+Bare slope,74.25,3.3333333333333335e-05
+Bare slope,74.5,3.3333333333333335e-05
+Bare slope,74.75,3.3333333333333335e-05
+Bare slope,75.0,3.3333333333333335e-05
+Bare slope,75.25,3.3333333333333335e-05
+Bare slope,75.5,3.3333333333333335e-05
+Bare slope,75.75,0.0
+Bare slope,76.0,0.0
+Bare slope,76.25,0.0
+Bare slope,76.5,0.0
+Bare slope,76.75,0.0
+Bare slope,77.0,0.0
+Bare slope,77.25,0.0
+Bare slope,77.5,0.0
+Bare slope,77.75,0.0
+Bare slope,78.0,0.0
+Bare slope,78.25,0.0
+Bare slope,78.5,0.0
+Bare slope,78.75,0.0
+Bare slope,79.0,0.0
+Bare slope,79.25,0.0
+Bare slope,79.5,0.0
+Bare slope,79.75,0.0
+Bare slope,80.0,0.0
+Bare slope,80.25,0.0
+Bare slope,80.5,0.0
+Bare slope,80.75,0.0
+Bare slope,81.0,0.0
+Bare slope,81.25,0.0
+Bare slope,81.5,0.0
+Bare slope,81.75,0.0
+Bare slope,82.0,0.0
+Bare slope,82.25,0.0
+Bare slope,82.5,0.0
+Bare slope,82.75,0.0
+Bare slope,83.0,0.0
+Bare slope,83.25,0.0
+Bare slope,83.5,0.0
+Bare slope,83.75,0.0
+Bare slope,84.0,0.0
+Bare slope,84.25,0.0
+Bare slope,84.5,0.0
+Bare slope,84.75,0.0
+Bare slope,85.0,0.0
+Bare slope,85.25,0.0
+Bare slope,85.5,0.0
+Bare slope,85.75,0.0
+Bare slope,86.0,0.0
+Bare slope,86.25,0.0
+Bare slope,86.5,0.0
+Bare slope,86.75,0.0
+Bare slope,87.0,0.0
+Bare slope,87.25,0.0
+Bare slope,87.5,0.0
+Bare slope,87.75,0.0
+Bare slope,88.0,0.0
+Bare slope,88.25,0.0
+Bare slope,88.5,0.0
+Bare slope,88.75,0.0
+Bare slope,89.0,0.0
+Bare slope,89.25,0.0
+Bare slope,89.5,0.0
+Bare slope,89.75,0.0
+Bare slope,90.0,0.0
+Bare slope,90.25,0.0
+Bare slope,90.5,0.0
+Bare slope,90.75,0.0
+Bare slope,91.0,0.0
+Bare slope,91.25,0.0
+Bare slope,91.5,0.0
+Bare slope,91.75,0.0
+Bare slope,92.0,0.0
+Bare slope,92.25,0.0
+Bare slope,92.5,0.0
+Bare slope,92.75,0.0
+Bare slope,93.0,0.0
+Bare slope,93.25,0.0
+Bare slope,93.5,0.0
+Bare slope,93.75,0.0
+Bare slope,94.0,0.0
+Bare slope,94.25,0.0
+Bare slope,94.5,0.0
+Bare slope,94.75,0.0
+Bare slope,95.0,0.0
+Bare slope,95.25,0.0
+Bare slope,95.5,0.0
+Bare slope,95.75,0.0
+Bare slope,96.0,0.0
+Cracked slope,0.0,0.0
+Cracked slope,0.25,0.0
+Cracked slope,0.5,0.0
+Cracked slope,0.75,0.0
+Cracked slope,1.0,0.0
+Cracked slope,1.25,0.0
+Cracked slope,1.5,0.0
+Cracked slope,1.75,0.0
+Cracked slope,2.0,0.0
+Cracked slope,2.25,0.0
+Cracked slope,2.5,0.0
+Cracked slope,2.75,0.0
+Cracked slope,3.0,0.0
+Cracked slope,3.25,0.0
+Cracked slope,3.5,0.0
+Cracked slope,3.75,0.0
+Cracked slope,4.0,0.0
+Cracked slope,4.25,0.0
+Cracked slope,4.5,0.0
+Cracked slope,4.75,0.0
+Cracked slope,5.0,0.0
+Cracked slope,5.25,0.0
+Cracked slope,5.5,0.0
+Cracked slope,5.75,0.0
+Cracked slope,6.0,0.0
+Cracked slope,6.25,0.0
+Cracked slope,6.5,3.3333333333333335e-05
+Cracked slope,6.75,0.00036666666666666667
+Cracked slope,7.0,0.0006666666666666666
+Cracked slope,7.25,0.0012333333333333332
+Cracked slope,7.5,0.0023
+Cracked slope,7.75,0.003966666666666667
+Cracked slope,8.0,0.006033333333333333
+Cracked slope,8.25,0.008966666666666666
+Cracked slope,8.5,0.012533333333333334
+Cracked slope,8.75,0.0172
+Cracked slope,9.0,0.02266666666666667
+Cracked slope,9.25,0.0288
+Cracked slope,9.5,0.03503333333333333
+Cracked slope,9.75,0.042466666666666666
+Cracked slope,10.0,0.0511
+Cracked slope,10.25,0.060533333333333335
+Cracked slope,10.5,0.0696
+Cracked slope,10.75,0.0806
+Cracked slope,11.0,0.09183333333333334
+Cracked slope,11.25,0.10583333333333333
+Cracked slope,11.5,0.1179
+Cracked slope,11.75,0.13196666666666668
+Cracked slope,12.0,0.14593333333333333
+Cracked slope,12.25,0.1608
+Cracked slope,12.5,0.17573333333333332
+Cracked slope,12.75,0.1918
+Cracked slope,13.0,0.20693333333333333
+Cracked slope,13.25,0.2223
+Cracked slope,13.5,0.2379
+Cracked slope,13.75,0.25453333333333333
+Cracked slope,14.0,0.27086666666666664
+Cracked slope,14.25,0.28696666666666665
+Cracked slope,14.5,0.3045333333333333
+Cracked slope,14.75,0.3204
+Cracked slope,15.0,0.3364666666666667
+Cracked slope,15.25,0.35273333333333334
+Cracked slope,15.5,0.36883333333333335
+Cracked slope,15.75,0.3854666666666667
+Cracked slope,16.0,0.4009333333333333
+Cracked slope,16.25,0.41683333333333333
+Cracked slope,16.5,0.43066666666666664
+Cracked slope,16.75,0.44443333333333335
+Cracked slope,17.0,0.45793333333333336
+Cracked slope,17.25,0.47286666666666666
+Cracked slope,17.5,0.4877666666666667
+Cracked slope,17.75,0.5011333333333333
+Cracked slope,18.0,0.5058666666666667
+Cracked slope,18.25,0.5109666666666667
+Cracked slope,18.5,0.5155666666666666
+Cracked slope,18.75,0.5207
+Cracked slope,19.0,0.5254666666666666
+Cracked slope,19.25,0.5297333333333333
+Cracked slope,19.5,0.5338
+Cracked slope,19.75,0.5384
+Cracked slope,20.0,0.5424
+Cracked slope,20.25,0.5457666666666666
+Cracked slope,20.5,0.5502666666666667
+Cracked slope,20.75,0.5539
+Cracked slope,21.0,0.5577333333333333
+Cracked slope,21.25,0.5619666666666666
+Cracked slope,21.5,0.5658333333333333
+Cracked slope,21.75,0.5695333333333333
+Cracked slope,22.0,0.574
+Cracked slope,22.25,0.5775
+Cracked slope,22.5,0.5809666666666666
+Cracked slope,22.75,0.5841333333333333
+Cracked slope,23.0,0.5877666666666667
+Cracked slope,23.25,0.5909666666666666
+Cracked slope,23.5,0.5944333333333334
+Cracked slope,23.75,0.5975
+Cracked slope,24.0,0.6007666666666667
+Cracked slope,24.25,0.6038333333333333
+Cracked slope,24.5,0.6072
+Cracked slope,24.75,0.6101333333333333
+Cracked slope,25.0,0.6135
+Cracked slope,25.25,0.6171
+Cracked slope,25.5,0.6205666666666667
+Cracked slope,25.75,0.6235
+Cracked slope,26.0,0.6270666666666667
+Cracked slope,26.25,0.6298333333333334
+Cracked slope,26.5,0.6332
+Cracked slope,26.75,0.6356666666666667
+Cracked slope,27.0,0.6394666666666666
+Cracked slope,27.25,0.6418333333333334
+Cracked slope,27.5,0.6449333333333334
+Cracked slope,27.75,0.6475666666666666
+Cracked slope,28.0,0.6506
+Cracked slope,28.25,0.6532666666666667
+Cracked slope,28.5,0.6557
+Cracked slope,28.75,0.6581666666666667
+Cracked slope,29.0,0.6610666666666667
+Cracked slope,29.25,0.6637666666666666
+Cracked slope,29.5,0.6660666666666667
+Cracked slope,29.75,0.6688666666666667
+Cracked slope,30.0,0.6638
+Cracked slope,30.25,0.6584333333333333
+Cracked slope,30.5,0.6539333333333334
+Cracked slope,30.75,0.6489
+Cracked slope,31.0,0.6435333333333333
+Cracked slope,31.25,0.6389
+Cracked slope,31.5,0.6334666666666666
+Cracked slope,31.75,0.6283
+Cracked slope,32.0,0.6227
+Cracked slope,32.25,0.6176333333333334
+Cracked slope,32.5,0.6122
+Cracked slope,32.75,0.6074333333333334
+Cracked slope,33.0,0.6026
+Cracked slope,33.25,0.5978666666666667
+Cracked slope,33.5,0.5934
+Cracked slope,33.75,0.5888333333333333
+Cracked slope,34.0,0.584
+Cracked slope,34.25,0.5791333333333334
+Cracked slope,34.5,0.5747
+Cracked slope,34.75,0.5686333333333333
+Cracked slope,35.0,0.5641
+Cracked slope,35.25,0.5588
+Cracked slope,35.5,0.5542333333333334
+Cracked slope,35.75,0.5497666666666666
+Cracked slope,36.0,0.5446
+Cracked slope,36.25,0.5404666666666667
+Cracked slope,36.5,0.5356333333333333
+Cracked slope,36.75,0.5306333333333333
+Cracked slope,37.0,0.5259333333333334
+Cracked slope,37.25,0.5209333333333334
+Cracked slope,37.5,0.5155333333333333
+Cracked slope,37.75,0.5107333333333334
+Cracked slope,38.0,0.5053666666666666
+Cracked slope,38.25,0.5005333333333334
+Cracked slope,38.5,0.49583333333333335
+Cracked slope,38.75,0.49116666666666664
+Cracked slope,39.0,0.4864
+Cracked slope,39.25,0.4815333333333333
+Cracked slope,39.5,0.4761666666666667
+Cracked slope,39.75,0.47123333333333334
+Cracked slope,40.0,0.46673333333333333
+Cracked slope,40.25,0.4619333333333333
+Cracked slope,40.5,0.4567
+Cracked slope,40.75,0.4523333333333333
+Cracked slope,41.0,0.44783333333333336
+Cracked slope,41.25,0.4438666666666667
+Cracked slope,41.5,0.43966666666666665
+Cracked slope,41.75,0.43606666666666666
+Cracked slope,42.0,0.42823333333333335
+Cracked slope,42.25,0.4210333333333333
+Cracked slope,42.5,0.41496666666666665
+Cracked slope,42.75,0.4079
+Cracked slope,43.0,0.4003
+Cracked slope,43.25,0.39263333333333333
+Cracked slope,43.5,0.3863333333333333
+Cracked slope,43.75,0.3781333333333333
+Cracked slope,44.0,0.37156666666666666
+Cracked slope,44.25,0.3638
+Cracked slope,44.5,0.35683333333333334
+Cracked slope,44.75,0.35036666666666666
+Cracked slope,45.0,0.3434333333333333
+Cracked slope,45.25,0.3367
+Cracked slope,45.5,0.32993333333333336
+Cracked slope,45.75,0.3232333333333333
+Cracked slope,46.0,0.3169666666666667
+Cracked slope,46.25,0.31046666666666667
+Cracked slope,46.5,0.3045333333333333
+Cracked slope,46.75,0.2974
+Cracked slope,47.0,0.2905
+Cracked slope,47.25,0.28476666666666667
+Cracked slope,47.5,0.2789333333333333
+Cracked slope,47.75,0.2725
+Cracked slope,48.0,0.26676666666666665
+Cracked slope,48.25,0.26053333333333334
+Cracked slope,48.5,0.25476666666666664
+Cracked slope,48.75,0.24883333333333332
+Cracked slope,49.0,0.24306666666666665
+Cracked slope,49.25,0.23746666666666666
+Cracked slope,49.5,0.2324
+Cracked slope,49.75,0.2269
+Cracked slope,50.0,0.2212
+Cracked slope,50.25,0.2162
+Cracked slope,50.5,0.21156666666666665
+Cracked slope,50.75,0.2065
+Cracked slope,51.0,0.20086666666666667
+Cracked slope,51.25,0.19636666666666666
+Cracked slope,51.5,0.19203333333333333
+Cracked slope,51.75,0.18666666666666668
+Cracked slope,52.0,0.18256666666666665
+Cracked slope,52.25,0.1772
+Cracked slope,52.5,0.17276666666666668
+Cracked slope,52.75,0.16833333333333333
+Cracked slope,53.0,0.1638
+Cracked slope,53.25,0.15933333333333333
+Cracked slope,53.5,0.1558
+Cracked slope,53.75,0.1516
+Cracked slope,54.0,0.1468
+Cracked slope,54.25,0.14273333333333332
+Cracked slope,54.5,0.1385
+Cracked slope,54.75,0.13493333333333332
+Cracked slope,55.0,0.13126666666666667
+Cracked slope,55.25,0.1271
+Cracked slope,55.5,0.12346666666666667
+Cracked slope,55.75,0.12016666666666667
+Cracked slope,56.0,0.11663333333333334
+Cracked slope,56.25,0.11353333333333333
+Cracked slope,56.5,0.11046666666666667
+Cracked slope,56.75,0.10726666666666666
+Cracked slope,57.0,0.10436666666666666
+Cracked slope,57.25,0.1008
+Cracked slope,57.5,0.09783333333333333
+Cracked slope,57.75,0.0943
+Cracked slope,58.0,0.09126666666666666
+Cracked slope,58.25,0.08876666666666666
+Cracked slope,58.5,0.08586666666666666
+Cracked slope,58.75,0.0831
+Cracked slope,59.0,0.0807
+Cracked slope,59.25,0.07803333333333333
+Cracked slope,59.5,0.07546666666666667
+Cracked slope,59.75,0.07336666666666666
+Cracked slope,60.0,0.071
+Cracked slope,60.25,0.0688
+Cracked slope,60.5,0.0666
+Cracked slope,60.75,0.0647
+Cracked slope,61.0,0.0626
+Cracked slope,61.25,0.06093333333333333
+Cracked slope,61.5,0.059133333333333336
+Cracked slope,61.75,0.05706666666666667
+Cracked slope,62.0,0.055266666666666665
+Cracked slope,62.25,0.0535
+Cracked slope,62.5,0.05173333333333333
+Cracked slope,62.75,0.04976666666666667
+Cracked slope,63.0,0.04806666666666667
+Cracked slope,63.25,0.04646666666666667
+Cracked slope,63.5,0.044866666666666666
+Cracked slope,63.75,0.04303333333333333
+Cracked slope,64.0,0.041466666666666666
+Cracked slope,64.25,0.04016666666666667
+Cracked slope,64.5,0.0388
+Cracked slope,64.75,0.03716666666666667
+Cracked slope,65.0,0.03593333333333333
+Cracked slope,65.25,0.03496666666666667
+Cracked slope,65.5,0.0338
+Cracked slope,65.75,0.033
+Cracked slope,66.0,0.031566666666666666
+Cracked slope,66.25,0.030566666666666666
+Cracked slope,66.5,0.029566666666666668
+Cracked slope,66.75,0.028633333333333334
+Cracked slope,67.0,0.027366666666666668
+Cracked slope,67.25,0.026433333333333333
+Cracked slope,67.5,0.0255
+Cracked slope,67.75,0.0244
+Cracked slope,68.0,0.023566666666666666
+Cracked slope,68.25,0.02263333333333333
+Cracked slope,68.5,0.021666666666666667
+Cracked slope,68.75,0.0209
+Cracked slope,69.0,0.019933333333333334
+Cracked slope,69.25,0.019266666666666668
+Cracked slope,69.5,0.018533333333333332
+Cracked slope,69.75,0.017566666666666668
+Cracked slope,70.0,0.016733333333333333
+Cracked slope,70.25,0.016166666666666666
+Cracked slope,70.5,0.015633333333333332
+Cracked slope,70.75,0.015166666666666667
+Cracked slope,71.0,0.0143
+Cracked slope,71.25,0.013466666666666667
+Cracked slope,71.5,0.012933333333333333
+Cracked slope,71.75,0.012233333333333334
+Cracked slope,72.0,0.011633333333333334
+Cracked slope,72.25,0.010933333333333333
+Cracked slope,72.5,0.010566666666666667
+Cracked slope,72.75,0.010366666666666666
+Cracked slope,73.0,0.009933333333333334
+Cracked slope,73.25,0.0095
+Cracked slope,73.5,0.009
+Cracked slope,73.75,0.008833333333333334
+Cracked slope,74.0,0.0084
+Cracked slope,74.25,0.008033333333333333
+Cracked slope,74.5,0.007533333333333334
+Cracked slope,74.75,0.0072
+Cracked slope,75.0,0.0068
+Cracked slope,75.25,0.006533333333333334
+Cracked slope,75.5,0.006033333333333333
+Cracked slope,75.75,0.005866666666666667
+Cracked slope,76.0,0.005633333333333333
+Cracked slope,76.25,0.005433333333333333
+Cracked slope,76.5,0.005166666666666667
+Cracked slope,76.75,0.0047666666666666664
+Cracked slope,77.0,0.004633333333333333
+Cracked slope,77.25,0.004433333333333333
+Cracked slope,77.5,0.004233333333333334
+Cracked slope,77.75,0.003933333333333333
+Cracked slope,78.0,0.003766666666666667
+Cracked slope,78.25,0.0035666666666666668
+Cracked slope,78.5,0.0032333333333333333
+Cracked slope,78.75,0.0029
+Cracked slope,79.0,0.002766666666666667
+Cracked slope,79.25,0.0026666666666666666
+Cracked slope,79.5,0.0025666666666666667
+Cracked slope,79.75,0.0023666666666666667
+Cracked slope,80.0,0.0023333333333333335
+Cracked slope,80.25,0.0023
+Cracked slope,80.5,0.0021333333333333334
+Cracked slope,80.75,0.002
+Cracked slope,81.0,0.0019333333333333333
+Cracked slope,81.25,0.0017
+Cracked slope,81.5,0.0016333333333333334
+Cracked slope,81.75,0.0015333333333333334
+Cracked slope,82.0,0.0014
+Cracked slope,82.25,0.0013333333333333333
+Cracked slope,82.5,0.0013
+Cracked slope,82.75,0.0012333333333333332
+Cracked slope,83.0,0.0010666666666666667
+Cracked slope,83.25,0.001
+Cracked slope,83.5,0.001
+Cracked slope,83.75,0.0009666666666666667
+Cracked slope,84.0,0.0009
+Cracked slope,84.25,0.0008333333333333334
+Cracked slope,84.5,0.0008333333333333334
+Cracked slope,84.75,0.0007333333333333333
+Cracked slope,85.0,0.0007
+Cracked slope,85.25,0.0006666666666666666
+Cracked slope,85.5,0.0006666666666666666
+Cracked slope,85.75,0.0006
+Cracked slope,86.0,0.0006
+Cracked slope,86.25,0.0005666666666666667
+Cracked slope,86.5,0.0005333333333333334
+Cracked slope,86.75,0.0005333333333333334
+Cracked slope,87.0,0.0005333333333333334
+Cracked slope,87.25,0.0005
+Cracked slope,87.5,0.00046666666666666666
+Cracked slope,87.75,0.0004333333333333333
+Cracked slope,88.0,0.0004333333333333333
+Cracked slope,88.25,0.0004
+Cracked slope,88.5,0.00036666666666666667
+Cracked slope,88.75,0.00036666666666666667
+Cracked slope,89.0,0.00036666666666666667
+Cracked slope,89.25,0.0003333333333333333
+Cracked slope,89.5,0.0003
+Cracked slope,89.75,0.0002666666666666667
+Cracked slope,90.0,0.0002
+Cracked slope,90.25,0.00016666666666666666
+Cracked slope,90.5,0.00013333333333333334
+Cracked slope,90.75,0.0001
+Cracked slope,91.0,6.666666666666667e-05
+Cracked slope,91.25,6.666666666666667e-05
+Cracked slope,91.5,3.3333333333333335e-05
+Cracked slope,91.75,3.3333333333333335e-05
+Cracked slope,92.0,3.3333333333333335e-05
+Cracked slope,92.25,3.3333333333333335e-05
+Cracked slope,92.5,3.3333333333333335e-05
+Cracked slope,92.75,3.3333333333333335e-05
+Cracked slope,93.0,3.3333333333333335e-05
+Cracked slope,93.25,3.3333333333333335e-05
+Cracked slope,93.5,3.3333333333333335e-05
+Cracked slope,93.75,3.3333333333333335e-05
+Cracked slope,94.0,3.3333333333333335e-05
+Cracked slope,94.25,0.0
+Cracked slope,94.5,0.0
+Cracked slope,94.75,0.0
+Cracked slope,95.0,0.0
+Cracked slope,95.25,0.0
+Cracked slope,95.5,0.0
+Cracked slope,95.75,0.0
+Cracked slope,96.0,0.0
+Vegetated slope,0.0,0.0
+Vegetated slope,0.25,0.0
+Vegetated slope,0.5,0.0
+Vegetated slope,0.75,0.0
+Vegetated slope,1.0,0.0
+Vegetated slope,1.25,0.0
+Vegetated slope,1.5,0.0
+Vegetated slope,1.75,0.0
+Vegetated slope,2.0,0.0
+Vegetated slope,2.25,0.0
+Vegetated slope,2.5,0.0
+Vegetated slope,2.75,0.0
+Vegetated slope,3.0,0.0
+Vegetated slope,3.25,0.0
+Vegetated slope,3.5,0.0
+Vegetated slope,3.75,0.0
+Vegetated slope,4.0,0.0
+Vegetated slope,4.25,0.0
+Vegetated slope,4.5,0.0
+Vegetated slope,4.75,0.0
+Vegetated slope,5.0,0.0
+Vegetated slope,5.25,0.0
+Vegetated slope,5.5,0.0
+Vegetated slope,5.75,0.0
+Vegetated slope,6.0,0.0
+Vegetated slope,6.25,0.0
+Vegetated slope,6.5,0.0
+Vegetated slope,6.75,0.0
+Vegetated slope,7.0,0.0
+Vegetated slope,7.25,0.0
+Vegetated slope,7.5,0.0
+Vegetated slope,7.75,0.0
+Vegetated slope,8.0,0.0
+Vegetated slope,8.25,0.0
+Vegetated slope,8.5,0.0
+Vegetated slope,8.75,0.0
+Vegetated slope,9.0,0.0
+Vegetated slope,9.25,0.0
+Vegetated slope,9.5,0.0
+Vegetated slope,9.75,0.0
+Vegetated slope,10.0,0.0
+Vegetated slope,10.25,0.0
+Vegetated slope,10.5,0.0
+Vegetated slope,10.75,0.0
+Vegetated slope,11.0,0.0
+Vegetated slope,11.25,0.0
+Vegetated slope,11.5,0.0
+Vegetated slope,11.75,0.0
+Vegetated slope,12.0,0.0
+Vegetated slope,12.25,0.0
+Vegetated slope,12.5,0.0
+Vegetated slope,12.75,0.0
+Vegetated slope,13.0,0.0
+Vegetated slope,13.25,0.0
+Vegetated slope,13.5,0.0
+Vegetated slope,13.75,0.0
+Vegetated slope,14.0,0.0
+Vegetated slope,14.25,0.0
+Vegetated slope,14.5,6.666666666666667e-05
+Vegetated slope,14.75,6.666666666666667e-05
+Vegetated slope,15.0,0.0001
+Vegetated slope,15.25,0.0001
+Vegetated slope,15.5,0.00016666666666666666
+Vegetated slope,15.75,0.00016666666666666666
+Vegetated slope,16.0,0.00016666666666666666
+Vegetated slope,16.25,0.00016666666666666666
+Vegetated slope,16.5,0.00016666666666666666
+Vegetated slope,16.75,0.00016666666666666666
+Vegetated slope,17.0,0.00023333333333333333
+Vegetated slope,17.25,0.00023333333333333333
+Vegetated slope,17.5,0.0002666666666666667
+Vegetated slope,17.75,0.0003
+Vegetated slope,18.0,0.0003
+Vegetated slope,18.25,0.0003
+Vegetated slope,18.5,0.0003
+Vegetated slope,18.75,0.0003333333333333333
+Vegetated slope,19.0,0.0003333333333333333
+Vegetated slope,19.25,0.00036666666666666667
+Vegetated slope,19.5,0.00036666666666666667
+Vegetated slope,19.75,0.00036666666666666667
+Vegetated slope,20.0,0.00036666666666666667
+Vegetated slope,20.25,0.00036666666666666667
+Vegetated slope,20.5,0.00036666666666666667
+Vegetated slope,20.75,0.00036666666666666667
+Vegetated slope,21.0,0.00036666666666666667
+Vegetated slope,21.25,0.0004
+Vegetated slope,21.5,0.0004
+Vegetated slope,21.75,0.0004
+Vegetated slope,22.0,0.0004333333333333333
+Vegetated slope,22.25,0.0004333333333333333
+Vegetated slope,22.5,0.00046666666666666666
+Vegetated slope,22.75,0.00046666666666666666
+Vegetated slope,23.0,0.00046666666666666666
+Vegetated slope,23.25,0.0005
+Vegetated slope,23.5,0.0005
+Vegetated slope,23.75,0.0005
+Vegetated slope,24.0,0.0005
+Vegetated slope,24.25,0.0005
+Vegetated slope,24.5,0.0005
+Vegetated slope,24.75,0.0005
+Vegetated slope,25.0,0.0005
+Vegetated slope,25.25,0.0005
+Vegetated slope,25.5,0.0005
+Vegetated slope,25.75,0.0005
+Vegetated slope,26.0,0.0005333333333333334
+Vegetated slope,26.25,0.0005333333333333334
+Vegetated slope,26.5,0.0005333333333333334
+Vegetated slope,26.75,0.0005333333333333334
+Vegetated slope,27.0,0.0005333333333333334
+Vegetated slope,27.25,0.0005333333333333334
+Vegetated slope,27.5,0.0005333333333333334
+Vegetated slope,27.75,0.0005333333333333334
+Vegetated slope,28.0,0.0005333333333333334
+Vegetated slope,28.25,0.0005333333333333334
+Vegetated slope,28.5,0.0005666666666666667
+Vegetated slope,28.75,0.0005666666666666667
+Vegetated slope,29.0,0.0005666666666666667
+Vegetated slope,29.25,0.0005666666666666667
+Vegetated slope,29.5,0.0005666666666666667
+Vegetated slope,29.75,0.0005666666666666667
+Vegetated slope,30.0,0.0005
+Vegetated slope,30.25,0.00046666666666666666
+Vegetated slope,30.5,0.00036666666666666667
+Vegetated slope,30.75,0.00036666666666666667
+Vegetated slope,31.0,0.0003
+Vegetated slope,31.25,0.0002666666666666667
+Vegetated slope,31.5,0.0002666666666666667
+Vegetated slope,31.75,0.00023333333333333333
+Vegetated slope,32.0,0.00023333333333333333
+Vegetated slope,32.25,0.00023333333333333333
+Vegetated slope,32.5,0.00016666666666666666
+Vegetated slope,32.75,0.00016666666666666666
+Vegetated slope,33.0,0.00016666666666666666
+Vegetated slope,33.25,0.00016666666666666666
+Vegetated slope,33.5,0.00016666666666666666
+Vegetated slope,33.75,0.00016666666666666666
+Vegetated slope,34.0,0.00016666666666666666
+Vegetated slope,34.25,0.00016666666666666666
+Vegetated slope,34.5,0.00016666666666666666
+Vegetated slope,34.75,0.00016666666666666666
+Vegetated slope,35.0,0.00016666666666666666
+Vegetated slope,35.25,0.00013333333333333334
+Vegetated slope,35.5,0.0001
+Vegetated slope,35.75,0.0001
+Vegetated slope,36.0,0.0001
+Vegetated slope,36.25,6.666666666666667e-05
+Vegetated slope,36.5,6.666666666666667e-05
+Vegetated slope,36.75,6.666666666666667e-05
+Vegetated slope,37.0,6.666666666666667e-05
+Vegetated slope,37.25,3.3333333333333335e-05
+Vegetated slope,37.5,3.3333333333333335e-05
+Vegetated slope,37.75,0.0
+Vegetated slope,38.0,0.0
+Vegetated slope,38.25,0.0
+Vegetated slope,38.5,0.0
+Vegetated slope,38.75,0.0
+Vegetated slope,39.0,0.0
+Vegetated slope,39.25,0.0
+Vegetated slope,39.5,0.0
+Vegetated slope,39.75,0.0
+Vegetated slope,40.0,0.0
+Vegetated slope,40.25,0.0
+Vegetated slope,40.5,0.0
+Vegetated slope,40.75,0.0
+Vegetated slope,41.0,0.0
+Vegetated slope,41.25,0.0
+Vegetated slope,41.5,0.0
+Vegetated slope,41.75,0.0
+Vegetated slope,42.0,0.0
+Vegetated slope,42.25,0.0
+Vegetated slope,42.5,0.0
+Vegetated slope,42.75,0.0
+Vegetated slope,43.0,0.0
+Vegetated slope,43.25,0.0
+Vegetated slope,43.5,0.0
+Vegetated slope,43.75,0.0
+Vegetated slope,44.0,0.0
+Vegetated slope,44.25,0.0
+Vegetated slope,44.5,0.0
+Vegetated slope,44.75,0.0
+Vegetated slope,45.0,0.0
+Vegetated slope,45.25,0.0
+Vegetated slope,45.5,0.0
+Vegetated slope,45.75,0.0
+Vegetated slope,46.0,0.0
+Vegetated slope,46.25,0.0
+Vegetated slope,46.5,0.0
+Vegetated slope,46.75,0.0
+Vegetated slope,47.0,0.0
+Vegetated slope,47.25,0.0
+Vegetated slope,47.5,0.0
+Vegetated slope,47.75,0.0
+Vegetated slope,48.0,0.0
+Vegetated slope,48.25,0.0
+Vegetated slope,48.5,0.0
+Vegetated slope,48.75,0.0
+Vegetated slope,49.0,0.0
+Vegetated slope,49.25,0.0
+Vegetated slope,49.5,0.0
+Vegetated slope,49.75,0.0
+Vegetated slope,50.0,0.0
+Vegetated slope,50.25,0.0
+Vegetated slope,50.5,0.0
+Vegetated slope,50.75,0.0
+Vegetated slope,51.0,0.0
+Vegetated slope,51.25,0.0
+Vegetated slope,51.5,0.0
+Vegetated slope,51.75,0.0
+Vegetated slope,52.0,0.0
+Vegetated slope,52.25,0.0
+Vegetated slope,52.5,0.0
+Vegetated slope,52.75,0.0
+Vegetated slope,53.0,0.0
+Vegetated slope,53.25,0.0
+Vegetated slope,53.5,0.0
+Vegetated slope,53.75,0.0
+Vegetated slope,54.0,0.0
+Vegetated slope,54.25,0.0
+Vegetated slope,54.5,0.0
+Vegetated slope,54.75,0.0
+Vegetated slope,55.0,0.0
+Vegetated slope,55.25,0.0
+Vegetated slope,55.5,0.0
+Vegetated slope,55.75,0.0
+Vegetated slope,56.0,0.0
+Vegetated slope,56.25,0.0
+Vegetated slope,56.5,0.0
+Vegetated slope,56.75,0.0
+Vegetated slope,57.0,0.0
+Vegetated slope,57.25,0.0
+Vegetated slope,57.5,0.0
+Vegetated slope,57.75,0.0
+Vegetated slope,58.0,0.0
+Vegetated slope,58.25,0.0
+Vegetated slope,58.5,0.0
+Vegetated slope,58.75,0.0
+Vegetated slope,59.0,0.0
+Vegetated slope,59.25,0.0
+Vegetated slope,59.5,0.0
+Vegetated slope,59.75,0.0
+Vegetated slope,60.0,0.0
+Vegetated slope,60.25,0.0
+Vegetated slope,60.5,0.0
+Vegetated slope,60.75,0.0
+Vegetated slope,61.0,0.0
+Vegetated slope,61.25,0.0
+Vegetated slope,61.5,0.0
+Vegetated slope,61.75,0.0
+Vegetated slope,62.0,0.0
+Vegetated slope,62.25,0.0
+Vegetated slope,62.5,0.0
+Vegetated slope,62.75,0.0
+Vegetated slope,63.0,0.0
+Vegetated slope,63.25,0.0
+Vegetated slope,63.5,0.0
+Vegetated slope,63.75,0.0
+Vegetated slope,64.0,0.0
+Vegetated slope,64.25,0.0
+Vegetated slope,64.5,0.0
+Vegetated slope,64.75,0.0
+Vegetated slope,65.0,0.0
+Vegetated slope,65.25,0.0
+Vegetated slope,65.5,0.0
+Vegetated slope,65.75,0.0
+Vegetated slope,66.0,0.0
+Vegetated slope,66.25,0.0
+Vegetated slope,66.5,0.0
+Vegetated slope,66.75,0.0
+Vegetated slope,67.0,0.0
+Vegetated slope,67.25,0.0
+Vegetated slope,67.5,0.0
+Vegetated slope,67.75,0.0
+Vegetated slope,68.0,0.0
+Vegetated slope,68.25,0.0
+Vegetated slope,68.5,0.0
+Vegetated slope,68.75,0.0
+Vegetated slope,69.0,0.0
+Vegetated slope,69.25,0.0
+Vegetated slope,69.5,0.0
+Vegetated slope,69.75,0.0
+Vegetated slope,70.0,0.0
+Vegetated slope,70.25,0.0
+Vegetated slope,70.5,0.0
+Vegetated slope,70.75,0.0
+Vegetated slope,71.0,0.0
+Vegetated slope,71.25,0.0
+Vegetated slope,71.5,0.0
+Vegetated slope,71.75,0.0
+Vegetated slope,72.0,0.0
+Vegetated slope,72.25,0.0
+Vegetated slope,72.5,0.0
+Vegetated slope,72.75,0.0
+Vegetated slope,73.0,0.0
+Vegetated slope,73.25,0.0
+Vegetated slope,73.5,0.0
+Vegetated slope,73.75,0.0
+Vegetated slope,74.0,0.0
+Vegetated slope,74.25,0.0
+Vegetated slope,74.5,0.0
+Vegetated slope,74.75,0.0
+Vegetated slope,75.0,0.0
+Vegetated slope,75.25,0.0
+Vegetated slope,75.5,0.0
+Vegetated slope,75.75,0.0
+Vegetated slope,76.0,0.0
+Vegetated slope,76.25,0.0
+Vegetated slope,76.5,0.0
+Vegetated slope,76.75,0.0
+Vegetated slope,77.0,0.0
+Vegetated slope,77.25,0.0
+Vegetated slope,77.5,0.0
+Vegetated slope,77.75,0.0
+Vegetated slope,78.0,0.0
+Vegetated slope,78.25,0.0
+Vegetated slope,78.5,0.0
+Vegetated slope,78.75,0.0
+Vegetated slope,79.0,0.0
+Vegetated slope,79.25,0.0
+Vegetated slope,79.5,0.0
+Vegetated slope,79.75,0.0
+Vegetated slope,80.0,0.0
+Vegetated slope,80.25,0.0
+Vegetated slope,80.5,0.0
+Vegetated slope,80.75,0.0
+Vegetated slope,81.0,0.0
+Vegetated slope,81.25,0.0
+Vegetated slope,81.5,0.0
+Vegetated slope,81.75,0.0
+Vegetated slope,82.0,0.0
+Vegetated slope,82.25,0.0
+Vegetated slope,82.5,0.0
+Vegetated slope,82.75,0.0
+Vegetated slope,83.0,0.0
+Vegetated slope,83.25,0.0
+Vegetated slope,83.5,0.0
+Vegetated slope,83.75,0.0
+Vegetated slope,84.0,0.0
+Vegetated slope,84.25,0.0
+Vegetated slope,84.5,0.0
+Vegetated slope,84.75,0.0
+Vegetated slope,85.0,0.0
+Vegetated slope,85.25,0.0
+Vegetated slope,85.5,0.0
+Vegetated slope,85.75,0.0
+Vegetated slope,86.0,0.0
+Vegetated slope,86.25,0.0
+Vegetated slope,86.5,0.0
+Vegetated slope,86.75,0.0
+Vegetated slope,87.0,0.0
+Vegetated slope,87.25,0.0
+Vegetated slope,87.5,0.0
+Vegetated slope,87.75,0.0
+Vegetated slope,88.0,0.0
+Vegetated slope,88.25,0.0
+Vegetated slope,88.5,0.0
+Vegetated slope,88.75,0.0
+Vegetated slope,89.0,0.0
+Vegetated slope,89.25,0.0
+Vegetated slope,89.5,0.0
+Vegetated slope,89.75,0.0
+Vegetated slope,90.0,0.0
+Vegetated slope,90.25,0.0
+Vegetated slope,90.5,0.0
+Vegetated slope,90.75,0.0
+Vegetated slope,91.0,0.0
+Vegetated slope,91.25,0.0
+Vegetated slope,91.5,0.0
+Vegetated slope,91.75,0.0
+Vegetated slope,92.0,0.0
+Vegetated slope,92.25,0.0
+Vegetated slope,92.5,0.0
+Vegetated slope,92.75,0.0
+Vegetated slope,93.0,0.0
+Vegetated slope,93.25,0.0
+Vegetated slope,93.5,0.0
+Vegetated slope,93.75,0.0
+Vegetated slope,94.0,0.0
+Vegetated slope,94.25,0.0
+Vegetated slope,94.5,0.0
+Vegetated slope,94.75,0.0
+Vegetated slope,95.0,0.0
+Vegetated slope,95.25,0.0
+Vegetated slope,95.5,0.0
+Vegetated slope,95.75,0.0
+Vegetated slope,96.0,0.0
+Cracked vegetated slope,0.0,0.0
+Cracked vegetated slope,0.25,0.0
+Cracked vegetated slope,0.5,0.0
+Cracked vegetated slope,0.75,0.0
+Cracked vegetated slope,1.0,0.0
+Cracked vegetated slope,1.25,0.0
+Cracked vegetated slope,1.5,0.0
+Cracked vegetated slope,1.75,0.0
+Cracked vegetated slope,2.0,0.0
+Cracked vegetated slope,2.25,0.0
+Cracked vegetated slope,2.5,0.0
+Cracked vegetated slope,2.75,0.0
+Cracked vegetated slope,3.0,0.0
+Cracked vegetated slope,3.25,0.0
+Cracked vegetated slope,3.5,0.0
+Cracked vegetated slope,3.75,0.0
+Cracked vegetated slope,4.0,0.0
+Cracked vegetated slope,4.25,0.0
+Cracked vegetated slope,4.5,0.0
+Cracked vegetated slope,4.75,0.0
+Cracked vegetated slope,5.0,0.0
+Cracked vegetated slope,5.25,0.0
+Cracked vegetated slope,5.5,0.0
+Cracked vegetated slope,5.75,0.0
+Cracked vegetated slope,6.0,0.0
+Cracked vegetated slope,6.25,0.0
+Cracked vegetated slope,6.5,0.0
+Cracked vegetated slope,6.75,0.0
+Cracked vegetated slope,7.0,0.0
+Cracked vegetated slope,7.25,0.0
+Cracked vegetated slope,7.5,0.0
+Cracked vegetated slope,7.75,0.0
+Cracked vegetated slope,8.0,0.0
+Cracked vegetated slope,8.25,0.0
+Cracked vegetated slope,8.5,3.3333333333333335e-05
+Cracked vegetated slope,8.75,3.3333333333333335e-05
+Cracked vegetated slope,9.0,3.3333333333333335e-05
+Cracked vegetated slope,9.25,0.0001
+Cracked vegetated slope,9.5,0.0001
+Cracked vegetated slope,9.75,0.00016666666666666666
+Cracked vegetated slope,10.0,0.0003333333333333333
+Cracked vegetated slope,10.25,0.00036666666666666667
+Cracked vegetated slope,10.5,0.00046666666666666666
+Cracked vegetated slope,10.75,0.0005666666666666667
+Cracked vegetated slope,11.0,0.0007666666666666667
+Cracked vegetated slope,11.25,0.001
+Cracked vegetated slope,11.5,0.0011666666666666668
+Cracked vegetated slope,11.75,0.0015
+Cracked vegetated slope,12.0,0.0019333333333333333
+Cracked vegetated slope,12.25,0.0022333333333333333
+Cracked vegetated slope,12.5,0.0026666666666666666
+Cracked vegetated slope,12.75,0.0031
+Cracked vegetated slope,13.0,0.003766666666666667
+Cracked vegetated slope,13.25,0.0043
+Cracked vegetated slope,13.5,0.004833333333333334
+Cracked vegetated slope,13.75,0.005833333333333334
+Cracked vegetated slope,14.0,0.0066
+Cracked vegetated slope,14.25,0.0077666666666666665
+Cracked vegetated slope,14.5,0.008933333333333333
+Cracked vegetated slope,14.75,0.009966666666666667
+Cracked vegetated slope,15.0,0.011366666666666667
+Cracked vegetated slope,15.25,0.012566666666666667
+Cracked vegetated slope,15.5,0.014066666666666667
+Cracked vegetated slope,15.75,0.015833333333333335
+Cracked vegetated slope,16.0,0.017366666666666666
+Cracked vegetated slope,16.25,0.019233333333333335
+Cracked vegetated slope,16.5,0.0209
+Cracked vegetated slope,16.75,0.0228
+Cracked vegetated slope,17.0,0.024566666666666667
+Cracked vegetated slope,17.25,0.026566666666666666
+Cracked vegetated slope,17.5,0.02896666666666667
+Cracked vegetated slope,17.75,0.0315
+Cracked vegetated slope,18.0,0.03206666666666667
+Cracked vegetated slope,18.25,0.0325
+Cracked vegetated slope,18.5,0.032766666666666666
+Cracked vegetated slope,18.75,0.033166666666666664
+Cracked vegetated slope,19.0,0.0335
+Cracked vegetated slope,19.25,0.03386666666666667
+Cracked vegetated slope,19.5,0.03436666666666666
+Cracked vegetated slope,19.75,0.0348
+Cracked vegetated slope,20.0,0.0351
+Cracked vegetated slope,20.25,0.03543333333333333
+Cracked vegetated slope,20.5,0.03573333333333333
+Cracked vegetated slope,20.75,0.035866666666666665
+Cracked vegetated slope,21.0,0.0361
+Cracked vegetated slope,21.25,0.03643333333333333
+Cracked vegetated slope,21.5,0.03673333333333333
+Cracked vegetated slope,21.75,0.0372
+Cracked vegetated slope,22.0,0.0374
+Cracked vegetated slope,22.25,0.0377
+Cracked vegetated slope,22.5,0.03793333333333333
+Cracked vegetated slope,22.75,0.038266666666666664
+Cracked vegetated slope,23.0,0.03846666666666667
+Cracked vegetated slope,23.25,0.03863333333333333
+Cracked vegetated slope,23.5,0.03896666666666666
+Cracked vegetated slope,23.75,0.03933333333333333
+Cracked vegetated slope,24.0,0.039466666666666664
+Cracked vegetated slope,24.25,0.039766666666666665
+Cracked vegetated slope,24.5,0.039933333333333335
+Cracked vegetated slope,24.75,0.0402
+Cracked vegetated slope,25.0,0.0405
+Cracked vegetated slope,25.25,0.0408
+Cracked vegetated slope,25.5,0.040966666666666665
+Cracked vegetated slope,25.75,0.041133333333333334
+Cracked vegetated slope,26.0,0.0412
+Cracked vegetated slope,26.25,0.04136666666666667
+Cracked vegetated slope,26.5,0.0415
+Cracked vegetated slope,26.75,0.04173333333333333
+Cracked vegetated slope,27.0,0.0419
+Cracked vegetated slope,27.25,0.04203333333333333
+Cracked vegetated slope,27.5,0.04226666666666667
+Cracked vegetated slope,27.75,0.042366666666666664
+Cracked vegetated slope,28.0,0.04253333333333333
+Cracked vegetated slope,28.25,0.042666666666666665
+Cracked vegetated slope,28.5,0.042666666666666665
+Cracked vegetated slope,28.75,0.04273333333333333
+Cracked vegetated slope,29.0,0.04276666666666667
+Cracked vegetated slope,29.25,0.042866666666666664
+Cracked vegetated slope,29.5,0.04303333333333333
+Cracked vegetated slope,29.75,0.043133333333333336
+Cracked vegetated slope,30.0,0.040966666666666665
+Cracked vegetated slope,30.25,0.03866666666666667
+Cracked vegetated slope,30.5,0.036566666666666664
+Cracked vegetated slope,30.75,0.034866666666666664
+Cracked vegetated slope,31.0,0.032933333333333335
+Cracked vegetated slope,31.25,0.0313
+Cracked vegetated slope,31.5,0.029566666666666668
+Cracked vegetated slope,31.75,0.027966666666666667
+Cracked vegetated slope,32.0,0.026366666666666667
+Cracked vegetated slope,32.25,0.0251
+Cracked vegetated slope,32.5,0.024033333333333334
+Cracked vegetated slope,32.75,0.022766666666666668
+Cracked vegetated slope,33.0,0.021733333333333334
+Cracked vegetated slope,33.25,0.0207
+Cracked vegetated slope,33.5,0.0198
+Cracked vegetated slope,33.75,0.018766666666666668
+Cracked vegetated slope,34.0,0.0176
+Cracked vegetated slope,34.25,0.016866666666666665
+Cracked vegetated slope,34.5,0.0162
+Cracked vegetated slope,34.75,0.0151
+Cracked vegetated slope,35.0,0.014133333333333333
+Cracked vegetated slope,35.25,0.0133
+Cracked vegetated slope,35.5,0.0126
+Cracked vegetated slope,35.75,0.011933333333333334
+Cracked vegetated slope,36.0,0.011333333333333334
+Cracked vegetated slope,36.25,0.010733333333333333
+Cracked vegetated slope,36.5,0.010166666666666666
+Cracked vegetated slope,36.75,0.0096
+Cracked vegetated slope,37.0,0.0092
+Cracked vegetated slope,37.25,0.0086
+Cracked vegetated slope,37.5,0.008033333333333333
+Cracked vegetated slope,37.75,0.007533333333333334
+Cracked vegetated slope,38.0,0.0071333333333333335
+Cracked vegetated slope,38.25,0.0067
+Cracked vegetated slope,38.5,0.006366666666666666
+Cracked vegetated slope,38.75,0.005966666666666667
+Cracked vegetated slope,39.0,0.005533333333333334
+Cracked vegetated slope,39.25,0.005233333333333334
+Cracked vegetated slope,39.5,0.004933333333333333
+Cracked vegetated slope,39.75,0.004633333333333333
+Cracked vegetated slope,40.0,0.0044
+Cracked vegetated slope,40.25,0.004233333333333334
+Cracked vegetated slope,40.5,0.0041
+Cracked vegetated slope,40.75,0.003833333333333333
+Cracked vegetated slope,41.0,0.0036333333333333335
+Cracked vegetated slope,41.25,0.0033666666666666667
+Cracked vegetated slope,41.5,0.0032
+Cracked vegetated slope,41.75,0.003033333333333333
+Cracked vegetated slope,42.0,0.0028333333333333335
+Cracked vegetated slope,42.25,0.0027
+Cracked vegetated slope,42.5,0.0025
+Cracked vegetated slope,42.75,0.002266666666666667
+Cracked vegetated slope,43.0,0.0019666666666666665
+Cracked vegetated slope,43.25,0.0019333333333333333
+Cracked vegetated slope,43.5,0.0017333333333333333
+Cracked vegetated slope,43.75,0.0015333333333333334
+Cracked vegetated slope,44.0,0.0015333333333333334
+Cracked vegetated slope,44.25,0.0013666666666666666
+Cracked vegetated slope,44.5,0.0011333333333333334
+Cracked vegetated slope,44.75,0.0010333333333333334
+Cracked vegetated slope,45.0,0.001
+Cracked vegetated slope,45.25,0.0009
+Cracked vegetated slope,45.5,0.0008
+Cracked vegetated slope,45.75,0.0008
+Cracked vegetated slope,46.0,0.0007333333333333333
+Cracked vegetated slope,46.25,0.0006333333333333333
+Cracked vegetated slope,46.5,0.0005666666666666667
+Cracked vegetated slope,46.75,0.0005666666666666667
+Cracked vegetated slope,47.0,0.0005666666666666667
+Cracked vegetated slope,47.25,0.0005
+Cracked vegetated slope,47.5,0.0004
+Cracked vegetated slope,47.75,0.00036666666666666667
+Cracked vegetated slope,48.0,0.00036666666666666667
+Cracked vegetated slope,48.25,0.00036666666666666667
+Cracked vegetated slope,48.5,0.00036666666666666667
+Cracked vegetated slope,48.75,0.0003333333333333333
+Cracked vegetated slope,49.0,0.0003
+Cracked vegetated slope,49.25,0.0002666666666666667
+Cracked vegetated slope,49.5,0.00016666666666666666
+Cracked vegetated slope,49.75,0.00013333333333333334
+Cracked vegetated slope,50.0,0.00013333333333333334
+Cracked vegetated slope,50.25,0.0001
+Cracked vegetated slope,50.5,0.0001
+Cracked vegetated slope,50.75,0.0001
+Cracked vegetated slope,51.0,0.0001
+Cracked vegetated slope,51.25,0.0001
+Cracked vegetated slope,51.5,0.0001
+Cracked vegetated slope,51.75,0.0001
+Cracked vegetated slope,52.0,0.0001
+Cracked vegetated slope,52.25,6.666666666666667e-05
+Cracked vegetated slope,52.5,6.666666666666667e-05
+Cracked vegetated slope,52.75,3.3333333333333335e-05
+Cracked vegetated slope,53.0,3.3333333333333335e-05
+Cracked vegetated slope,53.25,3.3333333333333335e-05
+Cracked vegetated slope,53.5,3.3333333333333335e-05
+Cracked vegetated slope,53.75,3.3333333333333335e-05
+Cracked vegetated slope,54.0,3.3333333333333335e-05
+Cracked vegetated slope,54.25,3.3333333333333335e-05
+Cracked vegetated slope,54.5,3.3333333333333335e-05
+Cracked vegetated slope,54.75,3.3333333333333335e-05
+Cracked vegetated slope,55.0,3.3333333333333335e-05
+Cracked vegetated slope,55.25,3.3333333333333335e-05
+Cracked vegetated slope,55.5,0.0
+Cracked vegetated slope,55.75,0.0
+Cracked vegetated slope,56.0,0.0
+Cracked vegetated slope,56.25,0.0
+Cracked vegetated slope,56.5,0.0
+Cracked vegetated slope,56.75,0.0
+Cracked vegetated slope,57.0,0.0
+Cracked vegetated slope,57.25,0.0
+Cracked vegetated slope,57.5,0.0
+Cracked vegetated slope,57.75,0.0
+Cracked vegetated slope,58.0,0.0
+Cracked vegetated slope,58.25,0.0
+Cracked vegetated slope,58.5,0.0
+Cracked vegetated slope,58.75,0.0
+Cracked vegetated slope,59.0,0.0
+Cracked vegetated slope,59.25,0.0
+Cracked vegetated slope,59.5,0.0
+Cracked vegetated slope,59.75,0.0
+Cracked vegetated slope,60.0,0.0
+Cracked vegetated slope,60.25,0.0
+Cracked vegetated slope,60.5,0.0
+Cracked vegetated slope,60.75,0.0
+Cracked vegetated slope,61.0,0.0
+Cracked vegetated slope,61.25,0.0
+Cracked vegetated slope,61.5,0.0
+Cracked vegetated slope,61.75,0.0
+Cracked vegetated slope,62.0,0.0
+Cracked vegetated slope,62.25,0.0
+Cracked vegetated slope,62.5,0.0
+Cracked vegetated slope,62.75,0.0
+Cracked vegetated slope,63.0,0.0
+Cracked vegetated slope,63.25,0.0
+Cracked vegetated slope,63.5,0.0
+Cracked vegetated slope,63.75,0.0
+Cracked vegetated slope,64.0,0.0
+Cracked vegetated slope,64.25,0.0
+Cracked vegetated slope,64.5,0.0
+Cracked vegetated slope,64.75,0.0
+Cracked vegetated slope,65.0,0.0
+Cracked vegetated slope,65.25,0.0
+Cracked vegetated slope,65.5,0.0
+Cracked vegetated slope,65.75,0.0
+Cracked vegetated slope,66.0,0.0
+Cracked vegetated slope,66.25,0.0
+Cracked vegetated slope,66.5,0.0
+Cracked vegetated slope,66.75,0.0
+Cracked vegetated slope,67.0,0.0
+Cracked vegetated slope,67.25,0.0
+Cracked vegetated slope,67.5,0.0
+Cracked vegetated slope,67.75,0.0
+Cracked vegetated slope,68.0,0.0
+Cracked vegetated slope,68.25,0.0
+Cracked vegetated slope,68.5,0.0
+Cracked vegetated slope,68.75,0.0
+Cracked vegetated slope,69.0,0.0
+Cracked vegetated slope,69.25,0.0
+Cracked vegetated slope,69.5,0.0
+Cracked vegetated slope,69.75,0.0
+Cracked vegetated slope,70.0,0.0
+Cracked vegetated slope,70.25,0.0
+Cracked vegetated slope,70.5,0.0
+Cracked vegetated slope,70.75,0.0
+Cracked vegetated slope,71.0,0.0
+Cracked vegetated slope,71.25,0.0
+Cracked vegetated slope,71.5,0.0
+Cracked vegetated slope,71.75,0.0
+Cracked vegetated slope,72.0,0.0
+Cracked vegetated slope,72.25,0.0
+Cracked vegetated slope,72.5,0.0
+Cracked vegetated slope,72.75,0.0
+Cracked vegetated slope,73.0,0.0
+Cracked vegetated slope,73.25,0.0
+Cracked vegetated slope,73.5,0.0
+Cracked vegetated slope,73.75,0.0
+Cracked vegetated slope,74.0,0.0
+Cracked vegetated slope,74.25,0.0
+Cracked vegetated slope,74.5,0.0
+Cracked vegetated slope,74.75,0.0
+Cracked vegetated slope,75.0,0.0
+Cracked vegetated slope,75.25,0.0
+Cracked vegetated slope,75.5,0.0
+Cracked vegetated slope,75.75,0.0
+Cracked vegetated slope,76.0,0.0
+Cracked vegetated slope,76.25,0.0
+Cracked vegetated slope,76.5,0.0
+Cracked vegetated slope,76.75,0.0
+Cracked vegetated slope,77.0,0.0
+Cracked vegetated slope,77.25,0.0
+Cracked vegetated slope,77.5,0.0
+Cracked vegetated slope,77.75,0.0
+Cracked vegetated slope,78.0,0.0
+Cracked vegetated slope,78.25,0.0
+Cracked vegetated slope,78.5,0.0
+Cracked vegetated slope,78.75,0.0
+Cracked vegetated slope,79.0,0.0
+Cracked vegetated slope,79.25,0.0
+Cracked vegetated slope,79.5,0.0
+Cracked vegetated slope,79.75,0.0
+Cracked vegetated slope,80.0,0.0
+Cracked vegetated slope,80.25,0.0
+Cracked vegetated slope,80.5,0.0
+Cracked vegetated slope,80.75,0.0
+Cracked vegetated slope,81.0,0.0
+Cracked vegetated slope,81.25,0.0
+Cracked vegetated slope,81.5,0.0
+Cracked vegetated slope,81.75,0.0
+Cracked vegetated slope,82.0,0.0
+Cracked vegetated slope,82.25,0.0
+Cracked vegetated slope,82.5,0.0
+Cracked vegetated slope,82.75,0.0
+Cracked vegetated slope,83.0,0.0
+Cracked vegetated slope,83.25,0.0
+Cracked vegetated slope,83.5,0.0
+Cracked vegetated slope,83.75,0.0
+Cracked vegetated slope,84.0,0.0
+Cracked vegetated slope,84.25,0.0
+Cracked vegetated slope,84.5,0.0
+Cracked vegetated slope,84.75,0.0
+Cracked vegetated slope,85.0,0.0
+Cracked vegetated slope,85.25,0.0
+Cracked vegetated slope,85.5,0.0
+Cracked vegetated slope,85.75,0.0
+Cracked vegetated slope,86.0,0.0
+Cracked vegetated slope,86.25,0.0
+Cracked vegetated slope,86.5,0.0
+Cracked vegetated slope,86.75,0.0
+Cracked vegetated slope,87.0,0.0
+Cracked vegetated slope,87.25,0.0
+Cracked vegetated slope,87.5,0.0
+Cracked vegetated slope,87.75,0.0
+Cracked vegetated slope,88.0,0.0
+Cracked vegetated slope,88.25,0.0
+Cracked vegetated slope,88.5,0.0
+Cracked vegetated slope,88.75,0.0
+Cracked vegetated slope,89.0,0.0
+Cracked vegetated slope,89.25,0.0
+Cracked vegetated slope,89.5,0.0
+Cracked vegetated slope,89.75,0.0
+Cracked vegetated slope,90.0,0.0
+Cracked vegetated slope,90.25,0.0
+Cracked vegetated slope,90.5,0.0
+Cracked vegetated slope,90.75,0.0
+Cracked vegetated slope,91.0,0.0
+Cracked vegetated slope,91.25,0.0
+Cracked vegetated slope,91.5,0.0
+Cracked vegetated slope,91.75,0.0
+Cracked vegetated slope,92.0,0.0
+Cracked vegetated slope,92.25,0.0
+Cracked vegetated slope,92.5,0.0
+Cracked vegetated slope,92.75,0.0
+Cracked vegetated slope,93.0,0.0
+Cracked vegetated slope,93.25,0.0
+Cracked vegetated slope,93.5,0.0
+Cracked vegetated slope,93.75,0.0
+Cracked vegetated slope,94.0,0.0
+Cracked vegetated slope,94.25,0.0
+Cracked vegetated slope,94.5,0.0
+Cracked vegetated slope,94.75,0.0
+Cracked vegetated slope,95.0,0.0
+Cracked vegetated slope,95.25,0.0
+Cracked vegetated slope,95.5,0.0
+Cracked vegetated slope,95.75,0.0
+Cracked vegetated slope,96.0,0.0
+Road surcharge and clogged drain,0.0,0.0
+Road surcharge and clogged drain,0.25,0.0
+Road surcharge and clogged drain,0.5,0.0
+Road surcharge and clogged drain,0.75,0.0
+Road surcharge and clogged drain,1.0,0.0
+Road surcharge and clogged drain,1.25,0.0
+Road surcharge and clogged drain,1.5,0.0
+Road surcharge and clogged drain,1.75,0.0
+Road surcharge and clogged drain,2.0,0.0
+Road surcharge and clogged drain,2.25,0.0
+Road surcharge and clogged drain,2.5,0.0
+Road surcharge and clogged drain,2.75,0.0
+Road surcharge and clogged drain,3.0,0.0
+Road surcharge and clogged drain,3.25,0.0
+Road surcharge and clogged drain,3.5,0.0
+Road surcharge and clogged drain,3.75,0.0
+Road surcharge and clogged drain,4.0,0.0
+Road surcharge and clogged drain,4.25,0.0
+Road surcharge and clogged drain,4.5,0.0
+Road surcharge and clogged drain,4.75,0.0
+Road surcharge and clogged drain,5.0,3.3333333333333335e-05
+Road surcharge and clogged drain,5.25,3.3333333333333335e-05
+Road surcharge and clogged drain,5.5,6.666666666666667e-05
+Road surcharge and clogged drain,5.75,6.666666666666667e-05
+Road surcharge and clogged drain,6.0,0.0002666666666666667
+Road surcharge and clogged drain,6.25,0.0009333333333333333
+Road surcharge and clogged drain,6.5,0.0017333333333333333
+Road surcharge and clogged drain,6.75,0.0041333333333333335
+Road surcharge and clogged drain,7.0,0.007533333333333334
+Road surcharge and clogged drain,7.25,0.0118
+Road surcharge and clogged drain,7.5,0.0177
+Road surcharge and clogged drain,7.75,0.025733333333333334
+Road surcharge and clogged drain,8.0,0.0341
+Road surcharge and clogged drain,8.25,0.0431
+Road surcharge and clogged drain,8.5,0.0546
+Road surcharge and clogged drain,8.75,0.06786666666666667
+Road surcharge and clogged drain,9.0,0.08083333333333333
+Road surcharge and clogged drain,9.25,0.0957
+Road surcharge and clogged drain,9.5,0.1129
+Road surcharge and clogged drain,9.75,0.13056666666666666
+Road surcharge and clogged drain,10.0,0.14973333333333333
+Road surcharge and clogged drain,10.25,0.16916666666666666
+Road surcharge and clogged drain,10.5,0.19046666666666667
+Road surcharge and clogged drain,10.75,0.21163333333333334
+Road surcharge and clogged drain,11.0,0.23363333333333333
+Road surcharge and clogged drain,11.25,0.2558666666666667
+Road surcharge and clogged drain,11.5,0.2779333333333333
+Road surcharge and clogged drain,11.75,0.2999
+Road surcharge and clogged drain,12.0,0.322
+Road surcharge and clogged drain,12.25,0.345
+Road surcharge and clogged drain,12.5,0.3676333333333333
+Road surcharge and clogged drain,12.75,0.3906
+Road surcharge and clogged drain,13.0,0.41263333333333335
+Road surcharge and clogged drain,13.25,0.43423333333333336
+Road surcharge and clogged drain,13.5,0.4555
+Road surcharge and clogged drain,13.75,0.4740666666666667
+Road surcharge and clogged drain,14.0,0.49546666666666667
+Road surcharge and clogged drain,14.25,0.5148333333333334
+Road surcharge and clogged drain,14.5,0.5341333333333333
+Road surcharge and clogged drain,14.75,0.5527666666666666
+Road surcharge and clogged drain,15.0,0.571
+Road surcharge and clogged drain,15.25,0.5891666666666666
+Road surcharge and clogged drain,15.5,0.6052333333333333
+Road surcharge and clogged drain,15.75,0.6217666666666667
+Road surcharge and clogged drain,16.0,0.6377666666666667
+Road surcharge and clogged drain,16.25,0.6522
+Road surcharge and clogged drain,16.5,0.6673
+Road surcharge and clogged drain,16.75,0.6819666666666667
+Road surcharge and clogged drain,17.0,0.6956333333333333
+Road surcharge and clogged drain,17.25,0.7098
+Road surcharge and clogged drain,17.5,0.7221666666666666
+Road surcharge and clogged drain,17.75,0.736
+Road surcharge and clogged drain,18.0,0.7409
+Road surcharge and clogged drain,18.25,0.7447333333333334
+Road surcharge and clogged drain,18.5,0.7499333333333333
+Road surcharge and clogged drain,18.75,0.7548666666666667
+Road surcharge and clogged drain,19.0,0.7596666666666667
+Road surcharge and clogged drain,19.25,0.7638
+Road surcharge and clogged drain,19.5,0.7673
+Road surcharge and clogged drain,19.75,0.7724
+Road surcharge and clogged drain,20.0,0.7762333333333333
+Road surcharge and clogged drain,20.25,0.7806333333333333
+Road surcharge and clogged drain,20.5,0.7844
+Road surcharge and clogged drain,20.75,0.7877333333333333
+Road surcharge and clogged drain,21.0,0.7919666666666667
+Road surcharge and clogged drain,21.25,0.7954333333333333
+Road surcharge and clogged drain,21.5,0.7988333333333333
+Road surcharge and clogged drain,21.75,0.802
+Road surcharge and clogged drain,22.0,0.8060333333333334
+Road surcharge and clogged drain,22.25,0.8094666666666667
+Road surcharge and clogged drain,22.5,0.8129333333333333
+Road surcharge and clogged drain,22.75,0.816
+Road surcharge and clogged drain,23.0,0.8188
+Road surcharge and clogged drain,23.25,0.8219
+Road surcharge and clogged drain,23.5,0.8252333333333334
+Road surcharge and clogged drain,23.75,0.8279666666666666
+Road surcharge and clogged drain,24.0,0.8310333333333333
+Road surcharge and clogged drain,24.25,0.8336666666666667
+Road surcharge and clogged drain,24.5,0.8362333333333334
+Road surcharge and clogged drain,24.75,0.8387
+Road surcharge and clogged drain,25.0,0.8413333333333334
+Road surcharge and clogged drain,25.25,0.8438333333333333
+Road surcharge and clogged drain,25.5,0.8466
+Road surcharge and clogged drain,25.75,0.8493333333333334
+Road surcharge and clogged drain,26.0,0.8522333333333333
+Road surcharge and clogged drain,26.25,0.8543
+Road surcharge and clogged drain,26.5,0.8569
+Road surcharge and clogged drain,26.75,0.8592333333333333
+Road surcharge and clogged drain,27.0,0.8607
+Road surcharge and clogged drain,27.25,0.8629
+Road surcharge and clogged drain,27.5,0.8655
+Road surcharge and clogged drain,27.75,0.8679
+Road surcharge and clogged drain,28.0,0.8698
+Road surcharge and clogged drain,28.25,0.8720666666666667
+Road surcharge and clogged drain,28.5,0.8736666666666667
+Road surcharge and clogged drain,28.75,0.8756333333333334
+Road surcharge and clogged drain,29.0,0.8779666666666667
+Road surcharge and clogged drain,29.25,0.8798333333333334
+Road surcharge and clogged drain,29.5,0.8816666666666667
+Road surcharge and clogged drain,29.75,0.8833333333333333
+Road surcharge and clogged drain,30.0,0.8817333333333334
+Road surcharge and clogged drain,30.25,0.8801333333333333
+Road surcharge and clogged drain,30.5,0.8781666666666667
+Road surcharge and clogged drain,30.75,0.8762
+Road surcharge and clogged drain,31.0,0.8744333333333333
+Road surcharge and clogged drain,31.25,0.8727
+Road surcharge and clogged drain,31.5,0.8711
+Road surcharge and clogged drain,31.75,0.8692333333333333
+Road surcharge and clogged drain,32.0,0.8675
+Road surcharge and clogged drain,32.25,0.8654333333333334
+Road surcharge and clogged drain,32.5,0.8631333333333333
+Road surcharge and clogged drain,32.75,0.8611
+Road surcharge and clogged drain,33.0,0.8600333333333333
+Road surcharge and clogged drain,33.25,0.8583333333333333
+Road surcharge and clogged drain,33.5,0.8561666666666666
+Road surcharge and clogged drain,33.75,0.8542666666666666
+Road surcharge and clogged drain,34.0,0.8525
+Road surcharge and clogged drain,34.25,0.8505333333333334
+Road surcharge and clogged drain,34.5,0.8482
+Road surcharge and clogged drain,34.75,0.8462333333333333
+Road surcharge and clogged drain,35.0,0.8439666666666666
+Road surcharge and clogged drain,35.25,0.8422
+Road surcharge and clogged drain,35.5,0.8402333333333334
+Road surcharge and clogged drain,35.75,0.8381666666666666
+Road surcharge and clogged drain,36.0,0.8364333333333334
+Road surcharge and clogged drain,36.25,0.8345
+Road surcharge and clogged drain,36.5,0.8328333333333333
+Road surcharge and clogged drain,36.75,0.8309333333333333
+Road surcharge and clogged drain,37.0,0.8290666666666666
+Road surcharge and clogged drain,37.25,0.8271333333333334
+Road surcharge and clogged drain,37.5,0.8246666666666667
+Road surcharge and clogged drain,37.75,0.8226333333333333
+Road surcharge and clogged drain,38.0,0.8205333333333333
+Road surcharge and clogged drain,38.25,0.8183
+Road surcharge and clogged drain,38.5,0.8164
+Road surcharge and clogged drain,38.75,0.8146
+Road surcharge and clogged drain,39.0,0.8125
+Road surcharge and clogged drain,39.25,0.8104
+Road surcharge and clogged drain,39.5,0.8083333333333333
+Road surcharge and clogged drain,39.75,0.8059666666666667
+Road surcharge and clogged drain,40.0,0.8034
+Road surcharge and clogged drain,40.25,0.8014333333333333
+Road surcharge and clogged drain,40.5,0.7992666666666667
+Road surcharge and clogged drain,40.75,0.7975
+Road surcharge and clogged drain,41.0,0.7952333333333333
+Road surcharge and clogged drain,41.25,0.7928333333333333
+Road surcharge and clogged drain,41.5,0.7913666666666667
+Road surcharge and clogged drain,41.75,0.7885666666666666
+Road surcharge and clogged drain,42.0,0.7849
+Road surcharge and clogged drain,42.25,0.7813666666666667
+Road surcharge and clogged drain,42.5,0.7769333333333334
+Road surcharge and clogged drain,42.75,0.7733666666666666
+Road surcharge and clogged drain,43.0,0.7687666666666667
+Road surcharge and clogged drain,43.25,0.7648666666666667
+Road surcharge and clogged drain,43.5,0.7611666666666667
+Road surcharge and clogged drain,43.75,0.7569666666666667
+Road surcharge and clogged drain,44.0,0.7526333333333334
+Road surcharge and clogged drain,44.25,0.7478666666666667
+Road surcharge and clogged drain,44.5,0.7438333333333333
+Road surcharge and clogged drain,44.75,0.7402333333333333
+Road surcharge and clogged drain,45.0,0.736
+Road surcharge and clogged drain,45.25,0.7307666666666667
+Road surcharge and clogged drain,45.5,0.7255
+Road surcharge and clogged drain,45.75,0.7206333333333333
+Road surcharge and clogged drain,46.0,0.7162333333333334
+Road surcharge and clogged drain,46.25,0.7118333333333333
+Road surcharge and clogged drain,46.5,0.7069333333333333
+Road surcharge and clogged drain,46.75,0.702
+Road surcharge and clogged drain,47.0,0.6975666666666667
+Road surcharge and clogged drain,47.25,0.6925666666666667
+Road surcharge and clogged drain,47.5,0.6878
+Road surcharge and clogged drain,47.75,0.6832666666666667
+Road surcharge and clogged drain,48.0,0.6782666666666667
+Road surcharge and clogged drain,48.25,0.6733
+Road surcharge and clogged drain,48.5,0.6682
+Road surcharge and clogged drain,48.75,0.6634666666666666
+Road surcharge and clogged drain,49.0,0.6589
+Road surcharge and clogged drain,49.25,0.6537333333333334
+Road surcharge and clogged drain,49.5,0.6488
+Road surcharge and clogged drain,49.75,0.6442666666666667
+Road surcharge and clogged drain,50.0,0.6395666666666666
+Road surcharge and clogged drain,50.25,0.6351
+Road surcharge and clogged drain,50.5,0.6300666666666667
+Road surcharge and clogged drain,50.75,0.6249333333333333
+Road surcharge and clogged drain,51.0,0.6197666666666667
+Road surcharge and clogged drain,51.25,0.6148666666666667
+Road surcharge and clogged drain,51.5,0.6096
+Road surcharge and clogged drain,51.75,0.6049
+Road surcharge and clogged drain,52.0,0.6
+Road surcharge and clogged drain,52.25,0.5957666666666667
+Road surcharge and clogged drain,52.5,0.5909333333333333
+Road surcharge and clogged drain,52.75,0.5856
+Road surcharge and clogged drain,53.0,0.5799666666666666
+Road surcharge and clogged drain,53.25,0.5752
+Road surcharge and clogged drain,53.5,0.5698666666666666
+Road surcharge and clogged drain,53.75,0.5646666666666667
+Road surcharge and clogged drain,54.0,0.5601666666666667
+Road surcharge and clogged drain,54.25,0.5545
+Road surcharge and clogged drain,54.5,0.5491
+Road surcharge and clogged drain,54.75,0.5444
+Road surcharge and clogged drain,55.0,0.5393333333333333
+Road surcharge and clogged drain,55.25,0.5342333333333333
+Road surcharge and clogged drain,55.5,0.5293666666666667
+Road surcharge and clogged drain,55.75,0.524
+Road surcharge and clogged drain,56.0,0.5191333333333333
+Road surcharge and clogged drain,56.25,0.5138333333333334
+Road surcharge and clogged drain,56.5,0.5082
+Road surcharge and clogged drain,56.75,0.5033333333333333
+Road surcharge and clogged drain,57.0,0.4987333333333333
+Road surcharge and clogged drain,57.25,0.4936
+Road surcharge and clogged drain,57.5,0.4887
+Road surcharge and clogged drain,57.75,0.4837
+Road surcharge and clogged drain,58.0,0.4781666666666667
+Road surcharge and clogged drain,58.25,0.47286666666666666
+Road surcharge and clogged drain,58.5,0.46823333333333333
+Road surcharge and clogged drain,58.75,0.4637
+Road surcharge and clogged drain,59.0,0.45916666666666667
+Road surcharge and clogged drain,59.25,0.45426666666666665
+Road surcharge and clogged drain,59.5,0.44893333333333335
+Road surcharge and clogged drain,59.75,0.4438666666666667
+Road surcharge and clogged drain,60.0,0.4391333333333333
+Road surcharge and clogged drain,60.25,0.43456666666666666
+Road surcharge and clogged drain,60.5,0.42943333333333333
+Road surcharge and clogged drain,60.75,0.4245333333333333
+Road surcharge and clogged drain,61.0,0.4198
+Road surcharge and clogged drain,61.25,0.41533333333333333
+Road surcharge and clogged drain,61.5,0.4109333333333333
+Road surcharge and clogged drain,61.75,0.4060666666666667
+Road surcharge and clogged drain,62.0,0.4012
+Road surcharge and clogged drain,62.25,0.39586666666666664
+Road surcharge and clogged drain,62.5,0.3908
+Road surcharge and clogged drain,62.75,0.385
+Road surcharge and clogged drain,63.0,0.38033333333333336
+Road surcharge and clogged drain,63.25,0.37556666666666666
+Road surcharge and clogged drain,63.5,0.3710333333333333
+Road surcharge and clogged drain,63.75,0.3663666666666667
+Road surcharge and clogged drain,64.0,0.36123333333333335
+Road surcharge and clogged drain,64.25,0.35656666666666664
+Road surcharge and clogged drain,64.5,0.3524333333333333
+Road surcharge and clogged drain,64.75,0.34763333333333335
+Road surcharge and clogged drain,65.0,0.3425666666666667
+Road surcharge and clogged drain,65.25,0.3378
+Road surcharge and clogged drain,65.5,0.3330666666666667
+Road surcharge and clogged drain,65.75,0.3285
+Road surcharge and clogged drain,66.0,0.32503333333333334
+Road surcharge and clogged drain,66.25,0.3208
+Road surcharge and clogged drain,66.5,0.3167
+Road surcharge and clogged drain,66.75,0.3122
+Road surcharge and clogged drain,67.0,0.30743333333333334
+Road surcharge and clogged drain,67.25,0.30333333333333334
+Road surcharge and clogged drain,67.5,0.2996
+Road surcharge and clogged drain,67.75,0.2948
+Road surcharge and clogged drain,68.0,0.2911
+Road surcharge and clogged drain,68.25,0.2875
+Road surcharge and clogged drain,68.5,0.2833
+Road surcharge and clogged drain,68.75,0.2794333333333333
+Road surcharge and clogged drain,69.0,0.27476666666666666
+Road surcharge and clogged drain,69.25,0.2709
+Road surcharge and clogged drain,69.5,0.26743333333333336
+Road surcharge and clogged drain,69.75,0.264
+Road surcharge and clogged drain,70.0,0.2596
+Road surcharge and clogged drain,70.25,0.2558666666666667
+Road surcharge and clogged drain,70.5,0.2527333333333333
+Road surcharge and clogged drain,70.75,0.24893333333333334
+Road surcharge and clogged drain,71.0,0.24523333333333333
+Road surcharge and clogged drain,71.25,0.2412
+Road surcharge and clogged drain,71.5,0.23696666666666666
+Road surcharge and clogged drain,71.75,0.23326666666666668
+Road surcharge and clogged drain,72.0,0.2294
+Road surcharge and clogged drain,72.25,0.22543333333333335
+Road surcharge and clogged drain,72.5,0.22206666666666666
+Road surcharge and clogged drain,72.75,0.21856666666666666
+Road surcharge and clogged drain,73.0,0.21506666666666666
+Road surcharge and clogged drain,73.25,0.2117
+Road surcharge and clogged drain,73.5,0.2083
+Road surcharge and clogged drain,73.75,0.20493333333333333
+Road surcharge and clogged drain,74.0,0.20146666666666666
+Road surcharge and clogged drain,74.25,0.1984
+Road surcharge and clogged drain,74.5,0.19506666666666667
+Road surcharge and clogged drain,74.75,0.192
+Road surcharge and clogged drain,75.0,0.18886666666666665
+Road surcharge and clogged drain,75.25,0.1854
+Road surcharge and clogged drain,75.5,0.18246666666666667
+Road surcharge and clogged drain,75.75,0.17896666666666666
+Road surcharge and clogged drain,76.0,0.17583333333333334
+Road surcharge and clogged drain,76.25,0.173
+Road surcharge and clogged drain,76.5,0.1699
+Road surcharge and clogged drain,76.75,0.16726666666666667
+Road surcharge and clogged drain,77.0,0.1644
+Road surcharge and clogged drain,77.25,0.16156666666666666
+Road surcharge and clogged drain,77.5,0.15856666666666666
+Road surcharge and clogged drain,77.75,0.1558
+Road surcharge and clogged drain,78.0,0.153
+Road surcharge and clogged drain,78.25,0.1503
+Road surcharge and clogged drain,78.5,0.14736666666666667
+Road surcharge and clogged drain,78.75,0.14446666666666666
+Road surcharge and clogged drain,79.0,0.14186666666666667
+Road surcharge and clogged drain,79.25,0.139
+Road surcharge and clogged drain,79.5,0.13676666666666668
+Road surcharge and clogged drain,79.75,0.1344
+Road surcharge and clogged drain,80.0,0.13193333333333335
+Road surcharge and clogged drain,80.25,0.1298
+Road surcharge and clogged drain,80.5,0.12783333333333333
+Road surcharge and clogged drain,80.75,0.12553333333333333
+Road surcharge and clogged drain,81.0,0.12293333333333334
+Road surcharge and clogged drain,81.25,0.12096666666666667
+Road surcharge and clogged drain,81.5,0.11863333333333333
+Road surcharge and clogged drain,81.75,0.1162
+Road surcharge and clogged drain,82.0,0.11403333333333333
+Road surcharge and clogged drain,82.25,0.1117
+Road surcharge and clogged drain,82.5,0.10936666666666667
+Road surcharge and clogged drain,82.75,0.10736666666666667
+Road surcharge and clogged drain,83.0,0.1054
+Road surcharge and clogged drain,83.25,0.103
+Road surcharge and clogged drain,83.5,0.101
+Road surcharge and clogged drain,83.75,0.09913333333333334
+Road surcharge and clogged drain,84.0,0.097
+Road surcharge and clogged drain,84.25,0.09493333333333333
+Road surcharge and clogged drain,84.5,0.09296666666666667
+Road surcharge and clogged drain,84.75,0.0912
+Road surcharge and clogged drain,85.0,0.0897
+Road surcharge and clogged drain,85.25,0.0881
+Road surcharge and clogged drain,85.5,0.08656666666666667
+Road surcharge and clogged drain,85.75,0.08456666666666666
+Road surcharge and clogged drain,86.0,0.08336666666666667
+Road surcharge and clogged drain,86.25,0.08156666666666666
+Road surcharge and clogged drain,86.5,0.08006666666666666
+Road surcharge and clogged drain,86.75,0.07886666666666667
+Road surcharge and clogged drain,87.0,0.07713333333333333
+Road surcharge and clogged drain,87.25,0.0752
+Road surcharge and clogged drain,87.5,0.07373333333333333
+Road surcharge and clogged drain,87.75,0.07273333333333333
+Road surcharge and clogged drain,88.0,0.07163333333333333
+Road surcharge and clogged drain,88.25,0.07016666666666667
+Road surcharge and clogged drain,88.5,0.0687
+Road surcharge and clogged drain,88.75,0.06733333333333333
+Road surcharge and clogged drain,89.0,0.06583333333333333
+Road surcharge and clogged drain,89.25,0.06423333333333334
+Road surcharge and clogged drain,89.5,0.0631
+Road surcharge and clogged drain,89.75,0.06216666666666667
+Road surcharge and clogged drain,90.0,0.06076666666666666
+Road surcharge and clogged drain,90.25,0.05946666666666667
+Road surcharge and clogged drain,90.5,0.05826666666666667
+Road surcharge and clogged drain,90.75,0.05706666666666667
+Road surcharge and clogged drain,91.0,0.055433333333333334
+Road surcharge and clogged drain,91.25,0.054233333333333335
+Road surcharge and clogged drain,91.5,0.052866666666666666
+Road surcharge and clogged drain,91.75,0.0518
+Road surcharge and clogged drain,92.0,0.050666666666666665
+Road surcharge and clogged drain,92.25,0.0494
+Road surcharge and clogged drain,92.5,0.04883333333333333
+Road surcharge and clogged drain,92.75,0.04783333333333333
+Road surcharge and clogged drain,93.0,0.04666666666666667
+Road surcharge and clogged drain,93.25,0.0457
+Road surcharge and clogged drain,93.5,0.0442
+Road surcharge and clogged drain,93.75,0.04326666666666667
+Road surcharge and clogged drain,94.0,0.042366666666666664
+Road surcharge and clogged drain,94.25,0.0412
+Road surcharge and clogged drain,94.5,0.04036666666666667
+Road surcharge and clogged drain,94.75,0.03966666666666667
+Road surcharge and clogged drain,95.0,0.038733333333333335
+Road surcharge and clogged drain,95.25,0.037766666666666664
+Road surcharge and clogged drain,95.5,0.0371
+Road surcharge and clogged drain,95.75,0.0364
+Road surcharge and clogged drain,96.0,0.03573333333333333
+Road surcharge with maintained drainage,0.0,0.0
+Road surcharge with maintained drainage,0.25,0.0
+Road surcharge with maintained drainage,0.5,0.0
+Road surcharge with maintained drainage,0.75,0.0
+Road surcharge with maintained drainage,1.0,0.0
+Road surcharge with maintained drainage,1.25,0.0
+Road surcharge with maintained drainage,1.5,0.0
+Road surcharge with maintained drainage,1.75,0.0
+Road surcharge with maintained drainage,2.0,0.0
+Road surcharge with maintained drainage,2.25,0.0
+Road surcharge with maintained drainage,2.5,0.0
+Road surcharge with maintained drainage,2.75,0.0
+Road surcharge with maintained drainage,3.0,0.0
+Road surcharge with maintained drainage,3.25,0.0
+Road surcharge with maintained drainage,3.5,0.0
+Road surcharge with maintained drainage,3.75,0.0
+Road surcharge with maintained drainage,4.0,0.0
+Road surcharge with maintained drainage,4.25,0.0
+Road surcharge with maintained drainage,4.5,0.0
+Road surcharge with maintained drainage,4.75,0.0
+Road surcharge with maintained drainage,5.0,0.0
+Road surcharge with maintained drainage,5.25,0.0
+Road surcharge with maintained drainage,5.5,0.0
+Road surcharge with maintained drainage,5.75,0.0
+Road surcharge with maintained drainage,6.0,0.0
+Road surcharge with maintained drainage,6.25,0.0
+Road surcharge with maintained drainage,6.5,0.0
+Road surcharge with maintained drainage,6.75,0.0
+Road surcharge with maintained drainage,7.0,0.0
+Road surcharge with maintained drainage,7.25,0.0
+Road surcharge with maintained drainage,7.5,0.0
+Road surcharge with maintained drainage,7.75,0.0
+Road surcharge with maintained drainage,8.0,0.0
+Road surcharge with maintained drainage,8.25,0.0
+Road surcharge with maintained drainage,8.5,3.3333333333333335e-05
+Road surcharge with maintained drainage,8.75,3.3333333333333335e-05
+Road surcharge with maintained drainage,9.0,3.3333333333333335e-05
+Road surcharge with maintained drainage,9.25,6.666666666666667e-05
+Road surcharge with maintained drainage,9.5,0.00016666666666666666
+Road surcharge with maintained drainage,9.75,0.0002
+Road surcharge with maintained drainage,10.0,0.0003333333333333333
+Road surcharge with maintained drainage,10.25,0.0004
+Road surcharge with maintained drainage,10.5,0.0004333333333333333
+Road surcharge with maintained drainage,10.75,0.0006333333333333333
+Road surcharge with maintained drainage,11.0,0.0007666666666666667
+Road surcharge with maintained drainage,11.25,0.001
+Road surcharge with maintained drainage,11.5,0.0011666666666666668
+Road surcharge with maintained drainage,11.75,0.0013666666666666666
+Road surcharge with maintained drainage,12.0,0.0015666666666666667
+Road surcharge with maintained drainage,12.25,0.0017666666666666666
+Road surcharge with maintained drainage,12.5,0.002033333333333333
+Road surcharge with maintained drainage,12.75,0.0023333333333333335
+Road surcharge with maintained drainage,13.0,0.0027
+Road surcharge with maintained drainage,13.25,0.0029333333333333334
+Road surcharge with maintained drainage,13.5,0.0035
+Road surcharge with maintained drainage,13.75,0.003933333333333333
+Road surcharge with maintained drainage,14.0,0.004333333333333333
+Road surcharge with maintained drainage,14.25,0.0048
+Road surcharge with maintained drainage,14.5,0.0051333333333333335
+Road surcharge with maintained drainage,14.75,0.005966666666666667
+Road surcharge with maintained drainage,15.0,0.006566666666666667
+Road surcharge with maintained drainage,15.25,0.007233333333333333
+Road surcharge with maintained drainage,15.5,0.0082
+Road surcharge with maintained drainage,15.75,0.008966666666666666
+Road surcharge with maintained drainage,16.0,0.0096
+Road surcharge with maintained drainage,16.25,0.0104
+Road surcharge with maintained drainage,16.5,0.0113
+Road surcharge with maintained drainage,16.75,0.012333333333333333
+Road surcharge with maintained drainage,17.0,0.013533333333333333
+Road surcharge with maintained drainage,17.25,0.014333333333333333
+Road surcharge with maintained drainage,17.5,0.0152
+Road surcharge with maintained drainage,17.75,0.016266666666666665
+Road surcharge with maintained drainage,18.0,0.016433333333333335
+Road surcharge with maintained drainage,18.25,0.016466666666666668
+Road surcharge with maintained drainage,18.5,0.016466666666666668
+Road surcharge with maintained drainage,18.75,0.016466666666666668
+Road surcharge with maintained drainage,19.0,0.0165
+Road surcharge with maintained drainage,19.25,0.0165
+Road surcharge with maintained drainage,19.5,0.016533333333333334
+Road surcharge with maintained drainage,19.75,0.016533333333333334
+Road surcharge with maintained drainage,20.0,0.016633333333333333
+Road surcharge with maintained drainage,20.25,0.016666666666666666
+Road surcharge with maintained drainage,20.5,0.0167
+Road surcharge with maintained drainage,20.75,0.0167
+Road surcharge with maintained drainage,21.0,0.0168
+Road surcharge with maintained drainage,21.25,0.0168
+Road surcharge with maintained drainage,21.5,0.0168
+Road surcharge with maintained drainage,21.75,0.0168
+Road surcharge with maintained drainage,22.0,0.0168
+Road surcharge with maintained drainage,22.25,0.0168
+Road surcharge with maintained drainage,22.5,0.0168
+Road surcharge with maintained drainage,22.75,0.0168
+Road surcharge with maintained drainage,23.0,0.016766666666666666
+Road surcharge with maintained drainage,23.25,0.0168
+Road surcharge with maintained drainage,23.5,0.016833333333333332
+Road surcharge with maintained drainage,23.75,0.016833333333333332
+Road surcharge with maintained drainage,24.0,0.016866666666666665
+Road surcharge with maintained drainage,24.25,0.016833333333333332
+Road surcharge with maintained drainage,24.5,0.016833333333333332
+Road surcharge with maintained drainage,24.75,0.016766666666666666
+Road surcharge with maintained drainage,25.0,0.016766666666666666
+Road surcharge with maintained drainage,25.25,0.016766666666666666
+Road surcharge with maintained drainage,25.5,0.016733333333333333
+Road surcharge with maintained drainage,25.75,0.016733333333333333
+Road surcharge with maintained drainage,26.0,0.016733333333333333
+Road surcharge with maintained drainage,26.25,0.016733333333333333
+Road surcharge with maintained drainage,26.5,0.016733333333333333
+Road surcharge with maintained drainage,26.75,0.0167
+Road surcharge with maintained drainage,27.0,0.0167
+Road surcharge with maintained drainage,27.25,0.0167
+Road surcharge with maintained drainage,27.5,0.016633333333333333
+Road surcharge with maintained drainage,27.75,0.0166
+Road surcharge with maintained drainage,28.0,0.0166
+Road surcharge with maintained drainage,28.25,0.0166
+Road surcharge with maintained drainage,28.5,0.0166
+Road surcharge with maintained drainage,28.75,0.016533333333333334
+Road surcharge with maintained drainage,29.0,0.016466666666666668
+Road surcharge with maintained drainage,29.25,0.016466666666666668
+Road surcharge with maintained drainage,29.5,0.016433333333333335
+Road surcharge with maintained drainage,29.75,0.016433333333333335
+Road surcharge with maintained drainage,30.0,0.0156
+Road surcharge with maintained drainage,30.25,0.014833333333333334
+Road surcharge with maintained drainage,30.5,0.014
+Road surcharge with maintained drainage,30.75,0.0133
+Road surcharge with maintained drainage,31.0,0.012233333333333334
+Road surcharge with maintained drainage,31.25,0.0115
+Road surcharge with maintained drainage,31.5,0.010833333333333334
+Road surcharge with maintained drainage,31.75,0.010066666666666666
+Road surcharge with maintained drainage,32.0,0.009533333333333333
+Road surcharge with maintained drainage,32.25,0.0092
+Road surcharge with maintained drainage,32.5,0.008566666666666667
+Road surcharge with maintained drainage,32.75,0.008066666666666666
+Road surcharge with maintained drainage,33.0,0.0074333333333333335
+Road surcharge with maintained drainage,33.25,0.006933333333333333
+Road surcharge with maintained drainage,33.5,0.006533333333333334
+Road surcharge with maintained drainage,33.75,0.006166666666666667
+Road surcharge with maintained drainage,34.0,0.0057
+Road surcharge with maintained drainage,34.25,0.005233333333333334
+Road surcharge with maintained drainage,34.5,0.0049
+Road surcharge with maintained drainage,34.75,0.004733333333333333
+Road surcharge with maintained drainage,35.0,0.0045
+Road surcharge with maintained drainage,35.25,0.004333333333333333
+Road surcharge with maintained drainage,35.5,0.004033333333333333
+Road surcharge with maintained drainage,35.75,0.0037333333333333333
+Road surcharge with maintained drainage,36.0,0.003533333333333333
+Road surcharge with maintained drainage,36.25,0.0033333333333333335
+Road surcharge with maintained drainage,36.5,0.0030666666666666668
+Road surcharge with maintained drainage,36.75,0.0028666666666666667
+Road surcharge with maintained drainage,37.0,0.002766666666666667
+Road surcharge with maintained drainage,37.25,0.0026333333333333334
+Road surcharge with maintained drainage,37.5,0.0024666666666666665
+Road surcharge with maintained drainage,37.75,0.0023
+Road surcharge with maintained drainage,38.0,0.0021666666666666666
+Road surcharge with maintained drainage,38.25,0.002033333333333333
+Road surcharge with maintained drainage,38.5,0.0019333333333333333
+Road surcharge with maintained drainage,38.75,0.0018
+Road surcharge with maintained drainage,39.0,0.0017666666666666666
+Road surcharge with maintained drainage,39.25,0.0016666666666666668
+Road surcharge with maintained drainage,39.5,0.0015666666666666667
+Road surcharge with maintained drainage,39.75,0.0014666666666666667
+Road surcharge with maintained drainage,40.0,0.0014333333333333333
+Road surcharge with maintained drainage,40.25,0.0013333333333333333
+Road surcharge with maintained drainage,40.5,0.0012666666666666666
+Road surcharge with maintained drainage,40.75,0.0012333333333333332
+Road surcharge with maintained drainage,41.0,0.0011666666666666668
+Road surcharge with maintained drainage,41.25,0.0010666666666666667
+Road surcharge with maintained drainage,41.5,0.0010333333333333334
+Road surcharge with maintained drainage,41.75,0.0009333333333333333
+Road surcharge with maintained drainage,42.0,0.0008333333333333334
+Road surcharge with maintained drainage,42.25,0.0008333333333333334
+Road surcharge with maintained drainage,42.5,0.0007333333333333333
+Road surcharge with maintained drainage,42.75,0.0007
+Road surcharge with maintained drainage,43.0,0.0006
+Road surcharge with maintained drainage,43.25,0.0005333333333333334
+Road surcharge with maintained drainage,43.5,0.0004333333333333333
+Road surcharge with maintained drainage,43.75,0.0004333333333333333
+Road surcharge with maintained drainage,44.0,0.0004333333333333333
+Road surcharge with maintained drainage,44.25,0.00036666666666666667
+Road surcharge with maintained drainage,44.5,0.0003333333333333333
+Road surcharge with maintained drainage,44.75,0.0003333333333333333
+Road surcharge with maintained drainage,45.0,0.0003333333333333333
+Road surcharge with maintained drainage,45.25,0.0003
+Road surcharge with maintained drainage,45.5,0.00023333333333333333
+Road surcharge with maintained drainage,45.75,0.0002
+Road surcharge with maintained drainage,46.0,0.00016666666666666666
+Road surcharge with maintained drainage,46.25,0.00016666666666666666
+Road surcharge with maintained drainage,46.5,0.0001
+Road surcharge with maintained drainage,46.75,6.666666666666667e-05
+Road surcharge with maintained drainage,47.0,6.666666666666667e-05
+Road surcharge with maintained drainage,47.25,6.666666666666667e-05
+Road surcharge with maintained drainage,47.5,6.666666666666667e-05
+Road surcharge with maintained drainage,47.75,6.666666666666667e-05
+Road surcharge with maintained drainage,48.0,3.3333333333333335e-05
+Road surcharge with maintained drainage,48.25,3.3333333333333335e-05
+Road surcharge with maintained drainage,48.5,3.3333333333333335e-05
+Road surcharge with maintained drainage,48.75,3.3333333333333335e-05
+Road surcharge with maintained drainage,49.0,3.3333333333333335e-05
+Road surcharge with maintained drainage,49.25,3.3333333333333335e-05
+Road surcharge with maintained drainage,49.5,3.3333333333333335e-05
+Road surcharge with maintained drainage,49.75,3.3333333333333335e-05
+Road surcharge with maintained drainage,50.0,3.3333333333333335e-05
+Road surcharge with maintained drainage,50.25,3.3333333333333335e-05
+Road surcharge with maintained drainage,50.5,3.3333333333333335e-05
+Road surcharge with maintained drainage,50.75,0.0
+Road surcharge with maintained drainage,51.0,0.0
+Road surcharge with maintained drainage,51.25,0.0
+Road surcharge with maintained drainage,51.5,0.0
+Road surcharge with maintained drainage,51.75,0.0
+Road surcharge with maintained drainage,52.0,0.0
+Road surcharge with maintained drainage,52.25,0.0
+Road surcharge with maintained drainage,52.5,0.0
+Road surcharge with maintained drainage,52.75,0.0
+Road surcharge with maintained drainage,53.0,0.0
+Road surcharge with maintained drainage,53.25,0.0
+Road surcharge with maintained drainage,53.5,0.0
+Road surcharge with maintained drainage,53.75,0.0
+Road surcharge with maintained drainage,54.0,0.0
+Road surcharge with maintained drainage,54.25,0.0
+Road surcharge with maintained drainage,54.5,0.0
+Road surcharge with maintained drainage,54.75,0.0
+Road surcharge with maintained drainage,55.0,0.0
+Road surcharge with maintained drainage,55.25,0.0
+Road surcharge with maintained drainage,55.5,0.0
+Road surcharge with maintained drainage,55.75,0.0
+Road surcharge with maintained drainage,56.0,0.0
+Road surcharge with maintained drainage,56.25,0.0
+Road surcharge with maintained drainage,56.5,0.0
+Road surcharge with maintained drainage,56.75,0.0
+Road surcharge with maintained drainage,57.0,0.0
+Road surcharge with maintained drainage,57.25,0.0
+Road surcharge with maintained drainage,57.5,0.0
+Road surcharge with maintained drainage,57.75,0.0
+Road surcharge with maintained drainage,58.0,0.0
+Road surcharge with maintained drainage,58.25,0.0
+Road surcharge with maintained drainage,58.5,0.0
+Road surcharge with maintained drainage,58.75,0.0
+Road surcharge with maintained drainage,59.0,0.0
+Road surcharge with maintained drainage,59.25,0.0
+Road surcharge with maintained drainage,59.5,0.0
+Road surcharge with maintained drainage,59.75,0.0
+Road surcharge with maintained drainage,60.0,0.0
+Road surcharge with maintained drainage,60.25,0.0
+Road surcharge with maintained drainage,60.5,0.0
+Road surcharge with maintained drainage,60.75,0.0
+Road surcharge with maintained drainage,61.0,0.0
+Road surcharge with maintained drainage,61.25,0.0
+Road surcharge with maintained drainage,61.5,0.0
+Road surcharge with maintained drainage,61.75,0.0
+Road surcharge with maintained drainage,62.0,0.0
+Road surcharge with maintained drainage,62.25,0.0
+Road surcharge with maintained drainage,62.5,0.0
+Road surcharge with maintained drainage,62.75,0.0
+Road surcharge with maintained drainage,63.0,0.0
+Road surcharge with maintained drainage,63.25,0.0
+Road surcharge with maintained drainage,63.5,0.0
+Road surcharge with maintained drainage,63.75,0.0
+Road surcharge with maintained drainage,64.0,0.0
+Road surcharge with maintained drainage,64.25,0.0
+Road surcharge with maintained drainage,64.5,0.0
+Road surcharge with maintained drainage,64.75,0.0
+Road surcharge with maintained drainage,65.0,0.0
+Road surcharge with maintained drainage,65.25,0.0
+Road surcharge with maintained drainage,65.5,0.0
+Road surcharge with maintained drainage,65.75,0.0
+Road surcharge with maintained drainage,66.0,0.0
+Road surcharge with maintained drainage,66.25,0.0
+Road surcharge with maintained drainage,66.5,0.0
+Road surcharge with maintained drainage,66.75,0.0
+Road surcharge with maintained drainage,67.0,0.0
+Road surcharge with maintained drainage,67.25,0.0
+Road surcharge with maintained drainage,67.5,0.0
+Road surcharge with maintained drainage,67.75,0.0
+Road surcharge with maintained drainage,68.0,0.0
+Road surcharge with maintained drainage,68.25,0.0
+Road surcharge with maintained drainage,68.5,0.0
+Road surcharge with maintained drainage,68.75,0.0
+Road surcharge with maintained drainage,69.0,0.0
+Road surcharge with maintained drainage,69.25,0.0
+Road surcharge with maintained drainage,69.5,0.0
+Road surcharge with maintained drainage,69.75,0.0
+Road surcharge with maintained drainage,70.0,0.0
+Road surcharge with maintained drainage,70.25,0.0
+Road surcharge with maintained drainage,70.5,0.0
+Road surcharge with maintained drainage,70.75,0.0
+Road surcharge with maintained drainage,71.0,0.0
+Road surcharge with maintained drainage,71.25,0.0
+Road surcharge with maintained drainage,71.5,0.0
+Road surcharge with maintained drainage,71.75,0.0
+Road surcharge with maintained drainage,72.0,0.0
+Road surcharge with maintained drainage,72.25,0.0
+Road surcharge with maintained drainage,72.5,0.0
+Road surcharge with maintained drainage,72.75,0.0
+Road surcharge with maintained drainage,73.0,0.0
+Road surcharge with maintained drainage,73.25,0.0
+Road surcharge with maintained drainage,73.5,0.0
+Road surcharge with maintained drainage,73.75,0.0
+Road surcharge with maintained drainage,74.0,0.0
+Road surcharge with maintained drainage,74.25,0.0
+Road surcharge with maintained drainage,74.5,0.0
+Road surcharge with maintained drainage,74.75,0.0
+Road surcharge with maintained drainage,75.0,0.0
+Road surcharge with maintained drainage,75.25,0.0
+Road surcharge with maintained drainage,75.5,0.0
+Road surcharge with maintained drainage,75.75,0.0
+Road surcharge with maintained drainage,76.0,0.0
+Road surcharge with maintained drainage,76.25,0.0
+Road surcharge with maintained drainage,76.5,0.0
+Road surcharge with maintained drainage,76.75,0.0
+Road surcharge with maintained drainage,77.0,0.0
+Road surcharge with maintained drainage,77.25,0.0
+Road surcharge with maintained drainage,77.5,0.0
+Road surcharge with maintained drainage,77.75,0.0
+Road surcharge with maintained drainage,78.0,0.0
+Road surcharge with maintained drainage,78.25,0.0
+Road surcharge with maintained drainage,78.5,0.0
+Road surcharge with maintained drainage,78.75,0.0
+Road surcharge with maintained drainage,79.0,0.0
+Road surcharge with maintained drainage,79.25,0.0
+Road surcharge with maintained drainage,79.5,0.0
+Road surcharge with maintained drainage,79.75,0.0
+Road surcharge with maintained drainage,80.0,0.0
+Road surcharge with maintained drainage,80.25,0.0
+Road surcharge with maintained drainage,80.5,0.0
+Road surcharge with maintained drainage,80.75,0.0
+Road surcharge with maintained drainage,81.0,0.0
+Road surcharge with maintained drainage,81.25,0.0
+Road surcharge with maintained drainage,81.5,0.0
+Road surcharge with maintained drainage,81.75,0.0
+Road surcharge with maintained drainage,82.0,0.0
+Road surcharge with maintained drainage,82.25,0.0
+Road surcharge with maintained drainage,82.5,0.0
+Road surcharge with maintained drainage,82.75,0.0
+Road surcharge with maintained drainage,83.0,0.0
+Road surcharge with maintained drainage,83.25,0.0
+Road surcharge with maintained drainage,83.5,0.0
+Road surcharge with maintained drainage,83.75,0.0
+Road surcharge with maintained drainage,84.0,0.0
+Road surcharge with maintained drainage,84.25,0.0
+Road surcharge with maintained drainage,84.5,0.0
+Road surcharge with maintained drainage,84.75,0.0
+Road surcharge with maintained drainage,85.0,0.0
+Road surcharge with maintained drainage,85.25,0.0
+Road surcharge with maintained drainage,85.5,0.0
+Road surcharge with maintained drainage,85.75,0.0
+Road surcharge with maintained drainage,86.0,0.0
+Road surcharge with maintained drainage,86.25,0.0
+Road surcharge with maintained drainage,86.5,0.0
+Road surcharge with maintained drainage,86.75,0.0
+Road surcharge with maintained drainage,87.0,0.0
+Road surcharge with maintained drainage,87.25,0.0
+Road surcharge with maintained drainage,87.5,0.0
+Road surcharge with maintained drainage,87.75,0.0
+Road surcharge with maintained drainage,88.0,0.0
+Road surcharge with maintained drainage,88.25,0.0
+Road surcharge with maintained drainage,88.5,0.0
+Road surcharge with maintained drainage,88.75,0.0
+Road surcharge with maintained drainage,89.0,0.0
+Road surcharge with maintained drainage,89.25,0.0
+Road surcharge with maintained drainage,89.5,0.0
+Road surcharge with maintained drainage,89.75,0.0
+Road surcharge with maintained drainage,90.0,0.0
+Road surcharge with maintained drainage,90.25,0.0
+Road surcharge with maintained drainage,90.5,0.0
+Road surcharge with maintained drainage,90.75,0.0
+Road surcharge with maintained drainage,91.0,0.0
+Road surcharge with maintained drainage,91.25,0.0
+Road surcharge with maintained drainage,91.5,0.0
+Road surcharge with maintained drainage,91.75,0.0
+Road surcharge with maintained drainage,92.0,0.0
+Road surcharge with maintained drainage,92.25,0.0
+Road surcharge with maintained drainage,92.5,0.0
+Road surcharge with maintained drainage,92.75,0.0
+Road surcharge with maintained drainage,93.0,0.0
+Road surcharge with maintained drainage,93.25,0.0
+Road surcharge with maintained drainage,93.5,0.0
+Road surcharge with maintained drainage,93.75,0.0
+Road surcharge with maintained drainage,94.0,0.0
+Road surcharge with maintained drainage,94.25,0.0
+Road surcharge with maintained drainage,94.5,0.0
+Road surcharge with maintained drainage,94.75,0.0
+Road surcharge with maintained drainage,95.0,0.0
+Road surcharge with maintained drainage,95.25,0.0
+Road surcharge with maintained drainage,95.5,0.0
+Road surcharge with maintained drainage,95.75,0.0
+Road surcharge with maintained drainage,96.0,0.0

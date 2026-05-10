@@ -1,0 +1,61 @@
+scenario,sample_size,seed,cumulative_pf
+Cracked slope,1000,120,0.692
+Road surcharge and clogged drain,1000,120,0.882
+Road surcharge with maintained drainage,1000,120,0.016
+Cracked slope,1000,121,0.621
+Road surcharge and clogged drain,1000,121,0.866
+Road surcharge with maintained drainage,1000,121,0.02
+Cracked slope,1000,122,0.664
+Road surcharge and clogged drain,1000,122,0.892
+Road surcharge with maintained drainage,1000,122,0.018
+Cracked slope,1000,123,0.667
+Road surcharge and clogged drain,1000,123,0.88
+Road surcharge with maintained drainage,1000,123,0.021
+Cracked slope,1000,124,0.703
+Road surcharge and clogged drain,1000,124,0.895
+Road surcharge with maintained drainage,1000,124,0.025
+Cracked slope,3000,120,0.6746666666666666
+Road surcharge and clogged drain,3000,120,0.8843333333333333
+Road surcharge with maintained drainage,3000,120,0.014666666666666666
+Cracked slope,3000,121,0.6733333333333333
+Road surcharge and clogged drain,3000,121,0.873
+Road surcharge with maintained drainage,3000,121,0.01633333333333333
+Cracked slope,3000,122,0.6673333333333333
+Road surcharge and clogged drain,3000,122,0.8803333333333333
+Road surcharge with maintained drainage,3000,122,0.017333333333333333
+Cracked slope,3000,123,0.6826666666666666
+Road surcharge and clogged drain,3000,123,0.8806666666666667
+Road surcharge with maintained drainage,3000,123,0.018666666666666668
+Cracked slope,3000,124,0.6763333333333333
+Road surcharge and clogged drain,3000,124,0.8853333333333333
+Road surcharge with maintained drainage,3000,124,0.017
+Cracked slope,10000,120,0.668
+Road surcharge and clogged drain,10000,120,0.8788
+Road surcharge with maintained drainage,10000,120,0.018
+Cracked slope,10000,121,0.6606
+Road surcharge and clogged drain,10000,121,0.8833
+Road surcharge with maintained drainage,10000,121,0.0182
+Cracked slope,10000,122,0.6737
+Road surcharge and clogged drain,10000,122,0.8848
+Road surcharge with maintained drainage,10000,122,0.0217
+Cracked slope,10000,123,0.665
+Road surcharge and clogged drain,10000,123,0.8762
+Road surcharge with maintained drainage,10000,123,0.0188
+Cracked slope,10000,124,0.6696
+Road surcharge and clogged drain,10000,124,0.8846
+Road surcharge with maintained drainage,10000,124,0.0174
+Cracked slope,30000,120,0.6688666666666667
+Road surcharge and clogged drain,30000,120,0.8833333333333333
+Road surcharge with maintained drainage,30000,120,0.016933333333333335
+Cracked slope,30000,121,0.6663
+Road surcharge and clogged drain,30000,121,0.8803666666666666
+Road surcharge with maintained drainage,30000,121,0.017733333333333334
+Cracked slope,30000,122,0.6696666666666666
+Road surcharge and clogged drain,30000,122,0.8828
+Road surcharge with maintained drainage,30000,122,0.017933333333333332
+Cracked slope,30000,123,0.6699
+Road surcharge and clogged drain,30000,123,0.8821666666666667
+Road surcharge with maintained drainage,30000,123,0.017666666666666667
+Cracked slope,30000,124,0.6692666666666667
+Road surcharge and clogged drain,30000,124,0.8858333333333334
+Road surcharge with maintained drainage,30000,124,0.018533333333333332

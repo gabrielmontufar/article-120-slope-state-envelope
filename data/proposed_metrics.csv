@@ -1,0 +1,5 @@
+metric,definition,unit,interpretation,value
+hydro_mechanical_memory_index,Integral over time of positive FS deficit below reference FS=1.15,FS-hour,Duration-weighted instability memory after and during rainfall,
+crack_root_compensation_factor,(Pf_cracked - Pf_cracked_vegetated)/(Pf_cracked - Pf_bare),dimensionless,Fraction of crack-induced risk neutralized by the selected vegetation state,1.2231706522447383
+state_conditioned_threshold,Rainfall scale at which the minimum deterministic FS reaches 1.0 for each slope state,dimensionless rainfall multiplier,Decision envelope linking rainfall duration and slope biological/structural state,
+infrastructure_drainage_resilience,(Pf_road_clogged_drain - Pf_road_maintained_drainage)/Pf_road_clogged_drain,dimensionless,Fraction of road-surcharge risk reduced by maintained drainage and vegetation,0.9808301886792452
