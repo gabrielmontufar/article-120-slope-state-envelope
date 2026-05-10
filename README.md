@@ -4,6 +4,8 @@ This package reproduces the synthetic demonstration used in the manuscript.
 It is not a field-calibrated data set. The purpose is to make the proposed
 state-conditioned temporal reliability workflow auditable.
 
+Public repository: https://github.com/gabrielmontufar/article-120-slope-state-envelope
+
 ## Reproduce
 
 ```bash
